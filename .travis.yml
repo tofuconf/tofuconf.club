@@ -1,4 +1,4 @@
-before_install:
+before_script:
   bash -exv ./.travis/prepare-ssh.bash
-install:
+script:
   bash -exv ./.travis/deploy.bash
