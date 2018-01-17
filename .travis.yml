@@ -3,6 +3,7 @@ branches:
   - master
 
 before_script:
-  bash -exv ./.travis/prepare-ssh.bash
+  bash -eu ./.travis/prepare-ssh.bash
 script:
-  bash -exv ./.travis/deploy.bash
+  bash -eu ./.travis/build-html.bash
+  bash -eu ./.travis/sync-server.bash
