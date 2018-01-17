@@ -7,6 +7,7 @@ permalink: /about/
 ---
 
 ## tofuConfとは？
+
 東工大附属関係者が一堂に会し、5分程度のプレゼンを行うことで、世代や分野を越え、刺激を与え合おうという試みです。
 
 テーマは自由です。在学時代の昔話でも、技術ネタでも、明日の献立でも大丈夫です。
@@ -14,6 +15,9 @@ permalink: /about/
 当日は軽食や飲み物を用意します。久しぶりに懐かしい面子や、話したかったあの人と、わいわいしませんか？
 
 もちろん、発表無しでの参加も大歓迎です！
+
+* [LT(ライトニングトーク)とは](http://shibuya.pm.org/blosxom/common/lightning_talks.html)
+* [tofuConfでの発表内容について](/about/presentation.html)
 
 ## 連絡先
 
