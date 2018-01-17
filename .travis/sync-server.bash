@@ -2,6 +2,6 @@
 
 set -eu
 
-TARGET_DIR=$(cd "$(dirname "$0")"; cd ../; pwd)
+TARGET_DIR=$(cd "$(dirname "$0")"; cd ../_site; pwd)
 
-rsync -apzv --exclude="CNAME" "${TARGET_DIR}/docs/" "travis@tofuconf.club:/var/www/html"
+rsync -apzv --exclude="CNAME" "${TARGET_DIR}" "travis@tofuconf.club:/var/www/html"
