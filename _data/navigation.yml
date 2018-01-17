@@ -6,3 +6,5 @@ main:
     url: /year-archive/
   - title: "Sitemap"
     url: /sitemap/
+  - title: "Register"
+    url: /register/
