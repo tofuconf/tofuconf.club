@@ -18,6 +18,10 @@ author: Daisuke Sato
 
 詳細につきましては[Twitter@tofuConf](https://twitter.com/tofuconf)までお問い合わせください。
 
+会計、Website、Twitterはそれぞれ担当者が異なります（2018年1月17日現在）。
+お返事・Website反映までに時間を要する場合もがあります。
+あらかじめご了承ください。
+
 ## 収入
 
 |	項目	|	収入額（円）	|
