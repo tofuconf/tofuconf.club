@@ -19,6 +19,8 @@ permalink: /about/
 * [LT(ライトニングトーク)とは](http://shibuya.pm.org/blosxom/common/lightning_talks.html)
 * [tofuConfでの発表内容について](/about/presentation.html)
 
+__本企画は東京工業大学附属科学技術高等学校並びに芝浦工業会によるものではありません。__
+
 ## 連絡先
 
 [Twitter@tofuConf](https://twitter.com/tofuConf)
