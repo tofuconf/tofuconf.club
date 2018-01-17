@@ -1,3 +1,7 @@
+branches:
+  only:
+  - master
+
 before_script:
   bash -exv ./.travis/prepare-ssh.bash
 script:
