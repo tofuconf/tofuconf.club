@@ -1,6 +1,11 @@
 {% assign author = page.author | default: page.authors[0] | default: site.author %}
 {% assign author = site.data.authors[author] | default: author %}
 
+{% if author.twitter contains "tofuconf" %}
+{% else %}
+<p>Author</p>
+{% endif %}
+
 <div itemscope itemtype="http://schema.org/Person">
 
   {% if author.avatar %}
