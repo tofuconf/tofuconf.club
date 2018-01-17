@@ -24,3 +24,8 @@ __本企画は東京工業大学附属科学技術高等学校並びに芝浦工
 ## 連絡先
 
 [Twitter@tofuConf](https://twitter.com/tofuConf)
+
+2018年1月現在、Website担当とTwitter担当は別人です。
+お返事・Website反映までに時間を要する場合もあります。
+あらかじめご了承ください。
+
