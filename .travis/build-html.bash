@@ -2,5 +2,5 @@
 
 set -eu
 
-bundle exec jekyll build
+JEKYLL_ENV=production bundle exec jekyll build
 bundle exec htmlproofer ./docs
