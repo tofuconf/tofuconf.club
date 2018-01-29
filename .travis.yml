@@ -3,8 +3,8 @@
 #   - master
 
 before_script:
-  - [ "$TRAVIS_BRANCH" == "master" ] && bash -eu ./.travis/prepare-ssh.bash
+  - if [ "$TRAVIS_BRANCH" == "master" ]; then bash -eu ./.travis/prepare-ssh.bash; fi
   - bundle install
 script:
   - bash -eu ./.travis/build-html.bash
-  - [ "$TRAVIS_BRANCH" == "master" ] && bash -eu ./.travis/sync-server.bash
+  - if [ "$TRAVIS_BRANCH" == "master" ]; then bash -eu ./.travis/sync-server.bash; fi
