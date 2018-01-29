@@ -1,10 +1,10 @@
-branches:
-  only:
-  - master
+# branches:
+#   only:
+#   - master
 
 before_script:
-  - bash -eu ./.travis/prepare-ssh.bash
+  - [ "$TRAVIS_BRANCH" == "master" ] && bash -eu ./.travis/prepare-ssh.bash
   - bundle install
 script:
   - bash -eu ./.travis/build-html.bash
-  - bash -eu ./.travis/sync-server.bash
+  - [ "$TRAVIS_BRANCH" == "master" ] && bash -eu ./.travis/sync-server.bash
