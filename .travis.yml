@@ -20,10 +20,10 @@ addons:
 #   - master
 
 before_script:
-  - if [ "$TRAVIS_BRANCH" == "master" ]; then bash -eu ./.travis/prepare-ssh.bash; fi
+  - if [ "$TRAVIS_BRANCH" == "master" ] && [ "$TRAVIS_PULL_REQUEST" == "false" ]; then bash -eu ./.travis/prepare-ssh.bash; fi
   - bundle install
 
 script:
   - bash -eu ./.travis/build-html.bash
-  - if [ "$TRAVIS_BRANCH" == "master" ]; then bash -eu ./.travis/sync-server.bash; fi
+  - if [ "$TRAVIS_BRANCH" == "master" ] && [ "$TRAVIS_PULL_REQUEST" == "false" ]; then bash -eu ./.travis/sync-server.bash; fi
 
