@@ -26,6 +26,7 @@ request.send();
 </script>
 
 tofuConfの参加登録ページです。  
+現在、<a href="/2018-02-24/2nd-tofuconf-general.html" target="_blank">tofuConf#2</a>の申し込みを受付中です。詳細は<a href="/2018-02-24/2nd-tofuconf-general.html" target="_blank">こちら</a>。
 
 ### 申し込み人数について
 
@@ -51,6 +52,7 @@ tofuConfの参加登録ページです。
 
 <div id="register">申込者数を確認しています...<br>
 このメッセージがずっと表示されている場合は人数が正しく表記されていない可能性があります。運営に連絡をお願いします。</div>
+（この数字は本ページ読み込み時の状況です。）
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeYG4wpxs8d_uBdvD9EC7U62MnM-aZmToEqC7YBjOn2bn6rxw/viewform?embedded=true" width="100%" height="700" frameborder="0" marginheight="0" marginwidth="0">読み込んでいます...</iframe>
 
