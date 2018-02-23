@@ -6,6 +6,25 @@ permalink: /register/
 
 ---
 
+<script type="text/javascript">
+<!--
+var url = "https://script.google.com/macros/s/AKfycbz9F7KI37142zXaw9sgZROxylcUn-OdSU8T1aBoB7OL8OwToBY/exec"
+var request = new XMLHttpRequest();
+request.open('GET', url);
+request.onreadystatechange = function () {
+  if (request.readyState != 4) {
+    document.getElementById("register").innerHTML="読み込み中...";
+  } else if (request.status != 200) {
+    document.getElementById("register").innerHTML="エラーが起きているようです。運営に問い合わせてください。";
+  } else {
+    document.getElementById("register").innerHTML="現在の申込者数は" + request.responseText + "人です。";
+  }
+};
+request.send();
+
+-->
+</script>
+
 tofuConfの参加登録ページです。  
 
 ### 申し込み人数について
