@@ -7,11 +7,13 @@ categories:
   - お知らせ
   - 開催概要
 tags:
-  - tofuConf#2
+  - 第2回tofuConf
 last_modified_at: 2018-02-24T01:53:53+09:00
 author: Daisuke Sato
 
 ---
+2018年3月25日にtofuConf#2を開催します。本ページがtofuConf#2の公式ページです。
+
 tofuConfとは
 東工大附属関係者が一堂に会し、様々な経験や興味などについて、
 5分程度のプレゼンで発信することで、世代や分野を超えて刺激を与え合い、交流できる場です。  
