@@ -8,19 +8,34 @@ permalink: /register/
 
 <script type="text/javascript">
 <!--
-var url = "https://script.google.com/macros/s/AKfycbz9F7KI37142zXaw9sgZROxylcUn-OdSU8T1aBoB7OL8OwToBY/exec"
-var request = new XMLHttpRequest();
-request.open('GET', url);
-request.onreadystatechange = function () {
-  if (request.readyState != 4) {
-    document.getElementById("register").innerHTML="読み込み中...";
-  } else if (request.status != 200) {
-    document.getElementById("register").innerHTML="エラーが起きているようです。運営に問い合わせてください。";
+var registrant_count_url = "https://script.google.com/macros/s/AKfycbz9F7KI37142zXaw9sgZROxylcUn-OdSU8T1aBoB7OL8OwToBY/exec"
+var registrant_count_request = new XMLHttpRequest();
+registrant_count_request.onreadystatechange = function () {
+  if (registrant_count_request.readyState != 4) {
+    document.getElementById("registrant").innerHTML="読み込み中...";
+  } else if (registrant_count_request.status != 200) {
+    document.getElementById("registrant").innerHTML="エラーが起きているようです。運営に問い合わせてください。";
   } else {
-    document.getElementById("register").innerHTML="現在の申込者数は" + request.responseText + "人です。";
+    document.getElementById("registrant").innerHTML="現在の申込者数は" + registrant_count_request.responseText + "人です。";
   }
 };
-request.send();
+
+var presenter_count_url = "https://script.google.com/macros/s/AKfycbxtuLZ7vuOY2ZKLHNxB7JEWT0p1qEOouXc94Vu-wwuJuSqCx5M/exec"
+var presenter_count_request = new XMLHttpRequest();
+presenter_count_request.onreadystatechange = function () {
+  if (presenter_count_request.readyState != 4) {
+    document.getElementById("presenter").innerHTML="読み込み中...";
+  } else if (presenter_count_request.status != 200) {
+    document.getElementById("presenter").innerHTML="エラーが起きているようです。運営に問い合わせてください。";
+  } else {
+    document.getElementById("presenter").innerHTML="現在の発表希望者は" + presenter_count_request.responseText + "人です。";
+  }
+};
+
+registrant_count_request.open('GET', registrant_count_url);
+presenter_count_request.open('GET', presenter_count_url);
+registrant_count_request.send();
+presenter_count_request.send();
 
 -->
 </script>
@@ -50,8 +65,11 @@ tofuConfの参加登録ページです。
 
 ### 現在の申込者数
 
-<div id="register">申込者数を確認しています...<br>
+<div id="registrant">申込者数を確認しています...<br>
 このメッセージがずっと表示されている場合は人数が正しく表記されていない可能性があります。運営に連絡をお願いします。</div>
+<div id="presenter">発表希望者数を確認しています...<br>
+このメッセージがずっと表示されている場合は人数が正しく表記されていない可能性があります。運営に連絡をお願いします。</div>
+
 （この数字は本ページ読み込み時の状況です。）
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeYG4wpxs8d_uBdvD9EC7U62MnM-aZmToEqC7YBjOn2bn6rxw/viewform?embedded=true" width="100%" height="700" frameborder="0" marginheight="0" marginwidth="0">読み込んでいます...</iframe>
