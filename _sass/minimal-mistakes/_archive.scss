@@ -18,7 +18,7 @@
 
   a {
     color: inherit;
-    text-decoration: none;
+    text-decoration: blue underline;
   }
 }
 
@@ -88,6 +88,9 @@
 .list__item {
   .page__meta {
     margin: 0 0 4px;
+  }
+  a{
+    color: black;
   }
 }
 
