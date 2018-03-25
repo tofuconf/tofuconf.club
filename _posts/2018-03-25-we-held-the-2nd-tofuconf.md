@@ -88,3 +88,4 @@ author: Daisuke Sato
 | 学生 | 1500 |
 | 社会人 | 2000 |
 
+会計報告は[こちら](/2018-03-25/we-held-the-2nd-tofuconf.html)です。
