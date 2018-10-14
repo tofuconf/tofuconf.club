@@ -7,7 +7,7 @@ categories:
   - お知らせ
 tags:
   - 第2回tofuConf
-last_modified_at: 2018-03-25T21:25:07+09:00
+last_modified_at: 2018-10-15T1:56:48+09:00
 author: Daisuke Sato
 
 ---
@@ -88,4 +88,10 @@ author: Daisuke Sato
 | 学生 | 1500 |
 | 社会人 | 2000 |
 
-会計報告は[こちら](/2018-03-25/finantial-report.html)です。
+会計報告は[こちら](/2018-03-25/financial-report.html)です。
+
+## 更新履歴
+
+### 2018年10月15日
+
+* 会計報告ページへのリンクを修正しました。
