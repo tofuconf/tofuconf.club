@@ -68,8 +68,7 @@ tofuConfの参加登録ページです。
 このメッセージがずっと表示されている場合は人数が正しく表記されていない可能性があります。運営に連絡をお願いします。</div><br>
 （この数字は本ページ読み込み時の状況です。）
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf-LUvn-FKbgsqM2kvna47vNFOEFO9vgEcxGcEIdaEvAyRT2A/viewform?embedded=true" width="100%" height="1500" frameborder="0" marginheight="0" marginwidth="0">読み込んでいます...</iframe>
-
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf-LUvn-FKbgsqM2kvna47vNFOEFO9vgEcxGcEIdaEvAyRT2A/viewform?embedded=true" width="100%" height="800" frameborder="0" marginheight="0" marginwidth="0">読み込んでいます...</iframe>
 
 ## 連絡先
 
