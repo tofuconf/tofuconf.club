@@ -2,7 +2,7 @@
 
 title:  "tofuConf#3 参加者・発表者の受付を開始しました"
 header:
-  teaser: "/images/releases/20180224tofuconf2nd.png"
+  teaser: "/images/releases/20181015tofuconf3rd.jpg"
 categories: 
   - お知らせ
   - 開催概要
