@@ -68,6 +68,9 @@ tofuConfの参加登録ページです。
 このメッセージがずっと表示されている場合は人数が正しく表記されていない可能性があります。運営に連絡をお願いします。</div><br>
 （この数字は本ページ読み込み時の状況です。）
 
+iOS11のデバイスで本ページを閲覧している場合、フォーム入力時に予期せず画面がスクロールされてしまうことがあります。下記URLから入力フォームを開いてお申し込みください。  
+<a href="https://goo.gl/forms/cCZKqZg69dIOTa4Q2" target="_blank">https://goo.gl/forms/cCZKqZg69dIOTa4Q2</a>
+
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf-LUvn-FKbgsqM2kvna47vNFOEFO9vgEcxGcEIdaEvAyRT2A/viewform?embedded=true" width="100%" height="800" frameborder="0" marginheight="0" marginwidth="0">読み込んでいます...</iframe>
 
 ## 連絡先
