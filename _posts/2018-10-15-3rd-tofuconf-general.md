@@ -8,7 +8,7 @@ categories:
   - 開催概要
 tags:
   - 第3回tofuConf
-last_modified_at: 2018-10-19T00:33:18+09:00
+last_modified_at: 2018-10-23T00:33:18+09:00
 author: Daisuke Sato
 
 ---
@@ -85,7 +85,7 @@ tofuConf#3ではアカデミック枠(課題研究や卒論など)を用意し�
 * 当日キャンセル : 500円
 
 当日キャンセルの場合のみ、キャンセル料の支払いをお願いしています。予めご了承ください。
-支払いはLINEPayや銀行振り込みに対応します。
+支払いは[LINEPay](https://line.me/ja/pay){:target="_blank"}、[Kyash](https://kyash.co/){:target="_blank"}、[PayPal](https://www.paypal.com/jp/home){:target="_blank"}、銀行振り込みに対応します。
 
 ## 申し込み方法
 
@@ -131,6 +131,7 @@ tofuConf#3ではアカデミック枠(課題研究や卒論など)を用意し�
 | やぎ |  |
 | 平台 |  |
 | koh |  |
+| Azer |  |
 
 
 ## 連絡先
