@@ -14,7 +14,7 @@ author: Daisuke Sato
 ---
 2018年11月3日（土）にtofuConf#3を開催します。本ページがtofuConf#3の公式ページです。
 
-![](/images/releases/20181015tofuconf3rd.jpg)
+![](/images/releases/20181015tofuconf3rd.jpg){:alt="tofuConf#3"}
 
 tofuConfとは
 東工大附属関係者が一堂に会し、様々な経験や興味などについて、
@@ -138,7 +138,7 @@ tofuConf#3ではアカデミック枠（課題研究や卒論など）を用意�
 
 ## タイムテーブル
 
-![](/images/timetable_tofuconf3rd.png)
+![](/images/timetable_tofuconf3rd.png){:alt="tofuConf#3_timetable"}
 
 ※各LTの発表時間は5分です。入れ替えの時間を含めて7分としております。
 
