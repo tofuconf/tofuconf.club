@@ -1,6 +1,6 @@
 ---
 
-title:  "tofuConf#3 参加者・発表者の受付を開始しました"
+title:  "tofuConf#3 参加者・発表者の受付を開始しました[※11/2に受付終了しました]"
 header:
   teaser: "/images/releases/20181015tofuconf3rd.jpg"
 categories: 
@@ -92,7 +92,7 @@ tofuConf#3ではアカデミック枠（課題研究や卒論など）を用意�
 
 ## 申し込み方法
 
-[tofuConf参加登録ページ](/register/){:target="_blank"} から参加登録・発表登録をお願いします。  
+~~[tofuConf参加登録ページ](/register/){:target="_blank"} から参加登録・発表登録をお願いします。~~ ※11/2に受付終了しました。  
 飛び入り参加の場合はTwitter宛にリプライください。
 
 発表希望者多数の場合は、先着順で発表者を決定します。
