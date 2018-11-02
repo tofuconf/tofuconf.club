@@ -2,7 +2,7 @@
 
 title:  "第1回tofuConf 会計報告"
 header:
-  teaser: "/images/2018/money_choubo.png"
+  teaser: "/images/money_choubo.png"
 categories: 
   - 会計報告
 tags:
