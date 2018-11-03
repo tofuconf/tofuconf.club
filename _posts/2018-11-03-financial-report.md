@@ -12,7 +12,8 @@ author: Daisuke Sato
 
 ---
 
-2018年11月3日に開催された[tofuConf#3](/2018-11-03/we-held-the-3rd-tofuconf.html)の会計報告です。
+<!-- 2018年11月3日に開催された[tofuConf#3](/2018-11-03/we-held-the-3rd-tofuconf.html)の会計報告です。-->
+2018年11月3日に開催されたtofuConf#3の会計報告です。
 
 残高は次回のtofuConfへの繰越金といたします。
 
