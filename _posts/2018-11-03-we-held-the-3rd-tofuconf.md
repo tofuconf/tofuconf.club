@@ -2,7 +2,7 @@
 
 title:  "tofuConf#3を開催しました"
 header:
-  teaser: "/images/releases/220181015tofuconf3rd.jpg"
+  teaser: "/images/releases/20181015tofuconf3rd.jpg"
 categories: 
   - お知らせ
 tags:
