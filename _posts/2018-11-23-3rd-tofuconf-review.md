@@ -7,8 +7,8 @@ categories:
   - 議事録
 tags:
   - tofuConfミーティング
-  - 第3回tofuConf
-  - 第4回tofuConf
+  - tofuConf#3
+  - tofuConf#4
 last_modified_at: 2018-11-29T23:32:49+09:00
 author: Daisuke Sato
 
