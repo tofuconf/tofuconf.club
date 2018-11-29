@@ -1,6 +1,6 @@
 ---
 
-title:  "tofuConf#3のレビューを行いました"
+title:  "tofuConf#3レビューのためのミーティングを開催しました"
 header:
   teaser: "/images/releases/20181015tofuconf3rd.jpg"
 categories: 
