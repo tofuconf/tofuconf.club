@@ -6,7 +6,7 @@ header:
 categories: 
   - お知らせ
 tags:
-  - 第3回tofuConf
+  - tofuConf#3
 last_modified_at: 2018-11-03T19:47:48+09:00
 author: Daisuke Sato
 
