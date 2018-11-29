@@ -8,7 +8,7 @@ categories:
 tags:
   - tofuConfミーティング
   - 第1回tofuConf
-  - 第2回tofuConf
+  - tofuConf#2
 last_modified_at: 2018-02-01T17:32:49+09:00
 author: Daisuke Sato
 

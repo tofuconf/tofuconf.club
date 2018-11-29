@@ -7,7 +7,7 @@ categories:
   - お知らせ
   - 開催概要
 tags:
-  - 第2回tofuConf
+  - tofuConf#2
 last_modified_at: 2018-03-25T00:07:41+09:00
 author: Daisuke Sato
 
