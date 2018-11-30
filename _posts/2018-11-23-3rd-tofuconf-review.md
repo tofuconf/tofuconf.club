@@ -9,7 +9,7 @@ tags:
   - tofuConfミーティング
   - tofuConf#3
   - tofuConf#4
-last_modified_at: 2018-11-29T23:32:49+09:00
+last_modified_at: 2018-11-30T13:20:49+09:00
 author: Daisuke Sato
 
 ---
@@ -78,16 +78,16 @@ tofuConf#3開催後にアンケートを実施しました。
 現在（2018年11月29日）、開催場所と日時を調整中です。
 __3月の土日を予定__ しています。
 
-## 寄付金の受付について
+## 寄付について
 
 tofuConfをよりよい発表の場、交流の場とするため、tofuConf#4から正式に寄付金を受け付けることとしました。  
-現在（2018年11月29日）までにすでに一部の方から寄付金を頂いております。頂いた寄付金についてはどのような用途で使用したのかきちんと公開していきます。  
-<!-- こちらに寄付についての詳細ページを用意しました。-->
+会場にて担当者が直接お預かりします。現在（2018年11月29日）までにSlackやミーティングを通じて一部の方から寄付を頂いております。頂いた寄付金についてはどのような用途で使用したのかきちんと公開していきます。  
+皆様から広くご支援を受付できるよう、寄付について案内する詳細ページを用意します。用意ができましたら改めてご案内します。
 皆様のご支援、どうぞよろしくお願いいたします。
 
 ## 広報について
 
-LINE@をはじめました。
+LINE@をはじめました。今後はTwitterと併用してLINE@でもtofuConfに関する情報を発信していきますので、友だち追加よろしくお願いします。
 <blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">【 tofuConfのLINE@を開設しました！】<br>今後の開催情報などを配信していく予定です。<br>皆さん、是非友達追加をよろしくお願いします！<a href="https://t.co/gqaItPVK80">https://t.co/gqaItPVK80</a> <a href="https://t.co/i5zuq94WGN">pic.twitter.com/i5zuq94WGN</a></p>&mdash; tofuConf (@tofuConf) <a href="https://twitter.com/tofuConf/status/1067699069445824512?ref_src=twsrc%5Etfw">2018年11月28日</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -175,3 +175,6 @@ LINE@をはじめました。
 
 * 2018年11月29日
   * 公開しました
+* 2018年11月30日
+  * 寄付ページに関する情報を追加
+  * LINE@に関する情報を更新
