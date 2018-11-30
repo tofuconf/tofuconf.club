@@ -14,7 +14,7 @@ author: Daisuke Sato
 
 ---
 
-2018年11月23日、tofuConf#3のレビューとtofuConf#4キックオフのためのミーティングを開催しました。  
+2018年11月22日、tofuConf#3のレビューとtofuConf#4キックオフのためのミーティングを開催しました。  
 ミーティングにて話し合われた内容の一部を公開します。
 
 開催にあたり、Slackおよびメーリングリストにて参加者を募集しました。新たにSlackやメーリングリストへの参加を希望される方は[Twitter@tofuConf](https://twitter.com/tofuConf){:target="_blank"}またはtofuconf[at]gmail.comまでお問い合わせください。
