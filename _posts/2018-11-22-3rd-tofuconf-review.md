@@ -76,7 +76,10 @@ tofuConf#3開催後にアンケートを実施しました。
 
 次回開催日・開催場所が決まり次第Twitterにて告知いたします。  
 現在（2018年11月29日）、開催場所と日時を調整中です。
-__3月の土日を予定__ しています。
+__3月16日（土）を予定__ しています。
+<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">[ご協力ください！] 第4回tofuConfの開催日についてのアンケートです！  現在、来年3月の開催を目指して調整中です。</p>&mdash; tofuConf (@tofuConf) <a href="https://twitter.com/tofuConf/status/1065598803389149185?ref_src=twsrc%5Etfw">2018年11月22日</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 ## 寄付について
 
@@ -178,3 +181,5 @@ LINE@をはじめました。今後はTwitterと併用してLINE@でもtofuConf�
 * 2018年11月30日
   * 寄付ページに関する情報を追加
   * LINE@に関する情報を更新
+* 2018年12月2日
+  * 次回開催日を追記
