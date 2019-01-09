@@ -2,7 +2,7 @@
 
 title:  "tofuConf#4 参加者・発表者の受付を開始しました"
 header:
-  teaser: "/images/logo.png"
+  teaser: "/images/tofuconf4th.jpg"
 categories: 
   - お知らせ
   - 開催概要
@@ -14,7 +14,7 @@ author: Daisuke Sato
 ---
 2019年3月16日（土）にtofuConf#4を開催します。本ページがtofuConf#4の公式ページです。
 
-<!-- ![](/images/){:alt="tofuConf#4"} -->
+![](/images/tofuconf4th.jpg){:alt="tofuConf#4"}
 
 tofuConfとは
 東工大附属関係者が一堂に会し、様々な経験や興味などについて、
