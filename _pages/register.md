@@ -38,7 +38,7 @@ presenter_count_request.send();
 </script>
 
 tofuConfの参加登録ページです。  
-現在、<a href="/2018-12-22/4th-tofuconf-general.html" target="_blank">tofuConf#4</a>の申し込みを受付中です。詳細は<a href="/2018-12-22/4th-tofuconf-general.html" target="_blank">こちら</a>。
+現在、<a href="/2019-01-09/4th-tofuconf-general.html" target="_blank">tofuConf#4</a>の申し込みを受付中です。詳細は<a href="/2019-01-09/4th-tofuconf-general.html" target="_blank">こちら</a>。
 
 ### 申し込み人数について
 
@@ -49,7 +49,7 @@ tofuConfの参加登録ページです。
 申し込みフォームで入力していただいた内容は
 以下の目的にのみ使用します。
 
-* tofuConfの開催のため
+* tofuConf開催のため
 * tofuConf開催のお知らせのため
 * お問い合わせ対応のため
 
@@ -75,4 +75,5 @@ iOS11のデバイスで本ページを閲覧している場合、フォーム入
 
 ## 連絡先
 
-[Twitter@tofuConf](https://twitter.com/tofuConf)
+* [Twitter@tofuConf](https://twitter.com/tofuConf)
+* tofuconf[at]gmail.com
