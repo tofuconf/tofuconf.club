@@ -8,7 +8,7 @@ permalink: /register/
 
 <script type="text/javascript">	
 <!--	
-var registrant_count_url = "https://script.google.com/macros/s/AKfycbyEimmAWQf6EtD1Q09Wq6ulcABJDAyOOUoGwMjtZiC7PoDLPrs/exec"	
+var registrant_count_url = "https://script.google.com/macros/s/AKfycbx6CqF1lpcjikLSHZUwuWNst_NS37L2pf3x-J_-g5k_Yt89hSOt/exec"
 var registrant_count_request = new XMLHttpRequest();	
 registrant_count_request.onreadystatechange = function () {	
   if (registrant_count_request.readyState != 4) {	
@@ -19,7 +19,7 @@ registrant_count_request.onreadystatechange = function () {
     document.getElementById("registrant").innerHTML="現在の申込者数は" + registrant_count_request.responseText + "人です。";	
   }	
 };	
- var presenter_count_url = "https://script.google.com/macros/s/AKfycbxDSogImJ6YnWmlJcyOar-w4IzVj_HZ_51vyenCdDd3R1hH_Mo/exec"	
+var presenter_count_url = "https://script.google.com/macros/s/AKfycbzIeMAyuavHkgXZoF_09xVVYJFZg-ovhU-E7uxxEw/exec"
 var presenter_count_request = new XMLHttpRequest();	
 presenter_count_request.onreadystatechange = function () {	
   if (presenter_count_request.readyState != 4) {	
@@ -38,7 +38,7 @@ presenter_count_request.send();
 </script>
 
 tofuConfの参加登録ページです。  
-現在、<a href="/2018-10-15/3rd-tofuconf-general.html" target="_blank">tofuConf#3</a>の申し込みを受付中です。詳細は<a href="/2018-10-15/3rd-tofuconf-general.html" target="_blank">こちら</a>。
+現在、<a href="/2019-01-09/4th-tofuconf-general.html" target="_blank">tofuConf#4</a>の申し込みを受付中です。詳細は<a href="/2019-01-09/4th-tofuconf-general.html" target="_blank">こちら</a>。
 
 ### 申し込み人数について
 
@@ -49,7 +49,7 @@ tofuConfの参加登録ページです。
 申し込みフォームで入力していただいた内容は
 以下の目的にのみ使用します。
 
-* tofuConfの開催のため
+* tofuConf開催のため
 * tofuConf開催のお知らせのため
 * お問い合わせ対応のため
 
@@ -69,10 +69,11 @@ tofuConfの参加登録ページです。
 （この数字は本ページ読み込み時の状況です。）
 
 iOS11のデバイスで本ページを閲覧している場合、フォーム入力時に予期せず画面がスクロールされてしまうことがあります。下記URLから入力フォームを開いてお申し込みください。  
-<a href="https://goo.gl/forms/cCZKqZg69dIOTa4Q2" target="_blank">https://goo.gl/forms/cCZKqZg69dIOTa4Q2</a>
+<a href="http://bit.ly/2EHG95p" target="_blank">http://bit.ly/2EHG95p</a>
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf-LUvn-FKbgsqM2kvna47vNFOEFO9vgEcxGcEIdaEvAyRT2A/viewform?embedded=true" width="100%" height="800" frameborder="0" marginheight="0" marginwidth="0">読み込んでいます...</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfBsN0EncI8OpJXx2qXdr30fvZt3pV8Iq_yzdgvwSYR08R48Q/viewform?embedded=true" width="100%" height="800" frameborder="0" marginheight="0" marginwidth="0">読み込んでいます...</iframe>
 
 ## 連絡先
 
-[Twitter@tofuConf](https://twitter.com/tofuConf)
+* [Twitter@tofuConf](https://twitter.com/tofuConf)
+* tofuconf[at]gmail.com
