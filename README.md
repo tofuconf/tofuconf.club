@@ -4,7 +4,7 @@ This website is based on [Minimal Mistakes Jekyll Theme](https://mmistakes.githu
 
 This repository is licensed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
 
-(C) 2018 [Tiryoh](https://github.com/Tiryoh)
+(C) 2018-2019 [Tiryoh](https://github.com/Tiryoh)
 
 ## Copyright
 
@@ -16,6 +16,10 @@ This repository is licensed under the [Apache License, Version 2.0](http://www.a
 
 [CC BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/deed) (C) 2018 [伊山なみ](https://twitter.com/l0526l)
 
+### ./images/tofuconf4th.jpg
+
+[CC BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/deed) (C) 2019 [伊山なみ](https://twitter.com/l0526l)
+
 ### contents in ./_posts and ./_pages except images, videos, others with credit notation
 
-[CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed) (C) 2018 [Tiryoh](https://github.com/Tiryoh)
+[CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed) (C) 2018-2019 [Tiryoh](https://github.com/Tiryoh)
