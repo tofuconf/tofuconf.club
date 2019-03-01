@@ -8,7 +8,7 @@ categories:
   - 開催概要
 tags:
   - tofuConf#4
-last_modified_at: 2019-03-01T21:24:47+09:00
+last_modified_at: 2019-03-01T21:33:15+09:00
 author: Daisuke Sato
 
 ---
@@ -145,7 +145,7 @@ tofuConf#4ではアカデミック枠を用意します！
 
 ※各LTの発表時間は5分です。入れ替えの時間を含めて7分としております。
 
-![](/images/timetable_tofuconf4th.png)
+![](../images/timetable_tofuconf4th.png){:alt="tofuConf#4_timetable"}
 
 ## 連絡先
 
