@@ -3,6 +3,8 @@
 title:  "tofuConfについて"
 layout: archive
 permalink: /about/
+header:
+  og_image: "/images/logo.png"
 
 ---
 
@@ -32,3 +34,9 @@ __本企画は東京工業大学附属科学技術高等学校並びに芝浦工
 お返事・Website反映までに時間を要する場合もあります。
 あらかじめご了承ください。
 
+## プライバシーポリシー
+
+tofuConf公式サイト（以下、本サイト）は https://tofuconf.club に公開します。  
+本サイトでは、Googleによるアクセス解析ツール「Googleアナリティクス」を利用しています。
+このGoogleアナリティクスはトラフィックデータの収集のためにCookieを使用しています。このトラフィックデータは匿名で収集されており、個人を特定するものではありません。この機能はCookieを無効にすることで収集を拒否することができますので、お使いのブラウザの設定をご確認ください。  
+Googleアナリティクスに関する詳細は「<a href="https://www.google.com/analytics/terms/jp.html" target="_blank" rel="nofollow">Google アナリティクス利用規約</a>」または「<a href="https://policies.google.com/technologies/partner-sites?hl=ja" target="_blank" rel="nofollow">ユーザーが Google パートナーのサイトやアプリを使用する際の Google によるデータ使用</a>」をご覧ください。
