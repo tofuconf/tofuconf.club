@@ -21,7 +21,7 @@ addons:
 
 before_script:
   - if [ "$TRAVIS_BRANCH" == "master" ] && [ "$TRAVIS_PULL_REQUEST" == "false" ]; then bash -eu ./.travis/prepare-ssh.bash; fi
-  - bundle install
+  - bash -eu ./.travis/prepare-build.bash
 
 script:
   - bash -eu ./.travis/build-html.bash
