@@ -3,6 +3,7 @@
 title:  "tofuConf#4を開催しました"
 header:
   og_image: "/images/tofuconf4th.jpg"
+  teaser: "/images/tofuconf4th.jpg"
 categories: 
   - お知らせ
 tags:

@@ -3,6 +3,7 @@
 title:  "tofuConf#4 参加者・発表者の受付を開始しました[※3/15に受付終了しました]"
 header:
   og_image: "/images/tofuconf4th.jpg"
+  teaser: "/images/tofuconf4th.jpg"
 categories: 
   - お知らせ
   - 開催概要
