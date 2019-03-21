@@ -17,7 +17,7 @@ author: Daisuke Sato
 
 残高は次回のtofuConfへの繰越金といたします。
 
-詳細につきましては[Twitter@tofuConf](https://twitter.com/tofuconf)までお問い合わせください。
+詳細につきましては[Twitter@tofuConf](https://twitter.com/tofuconf)またはtofuconf[at]gmail.comまでお問い合わせください。
 
 2019年3月21日現在、会計、Website、Twitterはそれぞれ担当者が異なります。
 お返事・Website反映までに時間を要する場合もがあります。
@@ -36,7 +36,7 @@ author: Daisuke Sato
 | 合計 | 57664 |
 
 * 雑所得について
-  * 繰越金を保管している金庫内に計算上の金額よりも多い金額の現金を確認しました。差額を雑所得として計上します。
+  * 繰越金を保管している金庫内に計算上の金額よりも多い現金を確認しました。差額を雑所得として計上します。
 
 ## 支出
 
