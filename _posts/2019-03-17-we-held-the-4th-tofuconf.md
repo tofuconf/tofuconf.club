@@ -80,3 +80,5 @@ author: Daisuke Sato
 | 高校生 | 500 |
 | 学生 | 1500 |
 | 社会人 | 2500 |
+
+会計報告は[こちら](/2019-03-21/financial-report.html)です。
