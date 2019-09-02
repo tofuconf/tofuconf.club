@@ -28,7 +28,9 @@ author: Daisuke Sato
 
 2018年11月23日（木） 20:00 - 23:00
 
-[W+](https://www.spacee.jp/listings/4492){:target="_blank"}（東京都千代田区）
+W+（東京都千代田区）
+
+2019年9月3日追記: 「W+」は<a href="https://www.spacee.jp/" target="_blank">spacee.jp</a>にて掲載されていたレンタルスペースでしたが、spaceeのサイト上から削除されたためリンクを削除しました。
 
 ### 議題
 
