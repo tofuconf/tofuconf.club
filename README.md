@@ -37,23 +37,24 @@ This repository is licensed under the [Apache License, Version 2.0](http://www.a
 ### Acknowledgement
 
 This website is based on [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/).
+
 [MIT License](https://github.com/mmistakes/minimal-mistakes/blob/4.9.0/LICENSE.txt) (C) 2013-2018 Michael Rose and contributors
 
 ## Copyright
 
-### ./images/releases/20180224tofuconf2nd.png
+### [tofuconf2nd.png](./images/releases/20180224tofuconf2nd.png)
 
 [CC BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/deed) (C) 2018 [akira](https://github.com/akira2048)
 
-### ./images/releases/20181015tofuconf3rd.jpg
+### [tofuconf3rd.jpg](./images/releases/20181015tofuconf3rd.jpg)
 
 [CC BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/deed) (C) 2018 [伊山なみ](https://twitter.com/l0526l)
 
-### ./images/tofuconf4th.jpg
+### [tofuconf4th.jpg](./images/tofuconf4th.jpg)
 
 [CC BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/deed) (C) 2019 [伊山なみ](https://twitter.com/l0526l)
 
-### contents in ./_posts and ./_pages except images, videos, others with credit notation
+### contents in `./_posts` and `./_pages` except images, videos, others with credit notation
 
 [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed) (C) 2018-2019 [Tiryoh](https://github.com/Tiryoh)
 
