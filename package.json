@@ -17,9 +17,9 @@
     "node": ">= 0.10.0"
   },
   "devDependencies": {
-    "npm-run-all": "^1.7.0",
-    "onchange": "^2.2.0",
-    "uglify-js": "^2.6.1"
+    "npm-run-all": "1.8.0",
+    "onchange": "2.5.0",
+    "uglify-js": "2.8.29"
   },
   "scripts": {
     "uglify":
