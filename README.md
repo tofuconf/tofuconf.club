@@ -1,10 +1,43 @@
 # tofuconf.club
 
-This website is based on [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/)(the [MIT License](https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE.txt)).
+contents of https://tofuconf.club
+
+## Usage
+
+### Installation
+
+```sh
+bundle install --path vendor/bundle
+```
+
+### Local hosting
+
+```sh
+bundle exec jekyll serve --config _config.yml --host='127.0.0.1'
+```
+
+or
+
+```sh
+docker run --rm --volume="$PWD:/srv/jekyll" -p 4000:4000 -it jekyll/jekyll:3.8 jekyll serve --config _config.yml
+```
+
+### Build html files in `_site` dir.
+
+```sh
+bundle exec jekyll build
+```
+
+## License
 
 This repository is licensed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
 
 (C) 2018-2019 [Tiryoh](https://github.com/Tiryoh)
+
+### Acknowledgement
+
+This website is based on [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/).
+[MIT License](https://github.com/mmistakes/minimal-mistakes/blob/4.9.0/LICENSE.txt) (C) 2013-2018 Michael Rose and contributors
 
 ## Copyright
 
@@ -23,3 +56,4 @@ This repository is licensed under the [Apache License, Version 2.0](http://www.a
 ### contents in ./_posts and ./_pages except images, videos, others with credit notation
 
 [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed) (C) 2018-2019 [Tiryoh](https://github.com/Tiryoh)
+
