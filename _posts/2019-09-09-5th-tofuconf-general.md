@@ -34,7 +34,7 @@ tofuConfとは
 
 ### 場所
 
-[ニュー新橋コワーキング](https://www.nscow.com/){:target="_blank"}（東京都渋谷区）
+[ニュー新橋コワーキング](https://www.nscow.com/){:target="_blank"}（東京都港区）
 
 JR新橋駅より徒歩1分、各社地下鉄新橋駅より3分、都営三田線内幸町より5分
 （
