@@ -38,7 +38,7 @@ presenter_count_request.send();
 </script>
 
 tofuConfの参加登録ページです。  
-現在、<a href="/2019-09-03/5th-tofuconf-general.html" target="_blank">tofuConf#5</a>の申し込みを受付中です。詳細は<a href="/2019-09-03/4th-tofuconf-general.html" target="_blank">こちら</a>。
+現在、<a href="/2019-09-09/5th-tofuconf-general.html" target="_blank">tofuConf#5</a>の申し込みを受付中です。詳細は<a href="/2019-09-09/5th-tofuconf-general.html" target="_blank">こちら</a>。
 
 ### 申し込み人数について
 
