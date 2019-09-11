@@ -27,7 +27,7 @@ presenter_count_request.onreadystatechange = function () {
   } else if (presenter_count_request.status != 200) {	
     document.getElementById("presenter").innerHTML="エラーが発生しています。スクリーンショットとともに運営に問い合わせてください。";	
   } else {	
-    document.getElementById("presenter").innerHTML="現在の発表希望者は" + presenter_count_request.responseText + "人です。";	
+    document.getElementById("presenter").innerHTML="申込者のうち発表希望者は" + presenter_count_request.responseText + "人です。";	
   }	
 };	
  registrant_count_request.open('GET', registrant_count_url);	
