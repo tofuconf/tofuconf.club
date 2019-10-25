@@ -10,7 +10,7 @@ categories:
 tags:
   - tofuConf#5
 date: 2019-09-09T23:12:48+09:00
-last_modified_at: 2019-10-25T15:42:32+09:00
+last_modified_at: 2019-10-25T15:51:43+09:00
 author: Daisuke Sato
 
 ---
@@ -121,7 +121,7 @@ tofuConf#5ではアカデミック枠を用意します！
 | 炭酸カリウム |  |
 | たいりょーくん | 私がやっている英語の勉強方法が意外とマニアックらしいので聞いてほしい |
 | 特になし | 武道と護身について |
-| Alwe |  |
+| Alwe | On Consistency Proof of First Order Arithmetic |
 | 篠月まな | 壁の向こう側 |
 | 真珠 | 高卒社会人の収束 |
 | からあげ | プロ野球の応援団に入ってみた話 |
