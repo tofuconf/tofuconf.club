@@ -149,6 +149,8 @@ exclude:
   - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
   - /sample
+  - /scripts
+  - "*.sh"
 keep_files:
   - .git
   - .svn
