@@ -12,7 +12,7 @@ author: Daisuke Sato
 
 ---
 
-2017年10月14日、[BOOKS万世橋](http://www.books-manseibashi.com/)（東京都千代田区）にて第1回tofuConfを開催致しました。
+2017年10月14日、[BOOKS万世橋](https://supenavi.com/space/13117/books/access){:target="_blank"}（東京都千代田区）にて第1回tofuConfを開催致しました。
 
 おしゃれな会場で、快く貸してくださいました。ありがとうございました。
 <blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">tofuConf会場、めちゃくちゃオシャレです…！ <a href="https://t.co/PyqVSBV70L">pic.twitter.com/PyqVSBV70L</a></p>&mdash; tofuConf (@tofuConf) <a href="https://twitter.com/tofuConf/status/919118026661797888?ref_src=twsrc%5Etfw">2017年10月14日</a></blockquote>
