@@ -12,7 +12,7 @@ author: Daisuke Sato
 
 ---
 
-2018年11月3日、[BOOKS万世橋](http://www.books-manseibashi.com/){:target="_blank"}（東京都千代田区）にてtofuConf#3を開催致しました。
+2018年11月3日、[BOOKS万世橋](https://supenavi.com/space/13117/books/access){:target="_blank"}（東京都千代田区）にてtofuConf#3を開催致しました。
 
 
 広くて綺麗な会場で、快く貸してくださいました。ありがとうございました。

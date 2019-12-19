@@ -34,7 +34,7 @@ tofuConfとは
 
 ### 場所
 
-[BOOKS万世橋](http://www.books-manseibashi.com/){:target="_blank"}（東京都千代田区）
+[BOOKS万世橋](https://supenavi.com/space/13117/books/access){:target="_blank"}（東京都千代田区）
 
 JR山手線 秋葉原駅から徒歩5分  
 JR山手線 神田 (東京都) 駅から徒歩5分  
