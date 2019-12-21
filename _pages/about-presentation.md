@@ -2,7 +2,11 @@
 
 title:  "tofuConfでの発表形式・発表内容について"
 layout: archive
-permalink: /about/presentation.html
+permalink: /about/presentation/
+redirect_from:
+  - /about/presentation.html
+header:
+  og_image: "/images/logo.png"
 
 ---
 
@@ -23,3 +27,4 @@ tofuConfではLT（ライトニングトーク）形式にて発表していた�
 * 公序良俗に反する内容
 * 会場設備を破損させる内容・行為
 
+そのほかは[tofuConf 行動規範](/conduct/){:target="_blank"}に記載しています。
