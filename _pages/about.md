@@ -21,13 +21,14 @@ header:
 
 もちろん、現役生の発表も、発表無しでの参加も大歓迎です！
 
-* [tofuConfでの発表形式・発表内容について](/about/presentation.html)
+* [tofuConfでの発表形式・発表内容について](/about/presentation/)
+* [tofuConf 行動規範](/conduct/)
 
 __本企画は東京工業大学附属科学技術高等学校並びに芝浦工業会によるものではありません。__
 
 ## 連絡先
 
-* [Twitter@tofuConf](https://twitter.com/tofuConf)
+* [Twitter@tofuConf](https://twitter.com/tofuConf){:target="_blank"}
 * tofuconf[at]gmail.com
 
 2019年1月現在、Website、Twitterはそれぞれ担当者が異なります。  
