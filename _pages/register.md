@@ -8,7 +8,7 @@ permalink: /register/
 
 <script type="text/javascript">	
 <!--	
-var registrant_count_url = "https://script.google.com/macros/s/AKfycbzypmlbx82q5pWwiQs6stOlnPQ9gDu4U_BlJMO6/exec"
+var registrant_count_url = "https://script.google.com/macros/s/AKfycbzrxnNiEFfzDX0YG5JNU4SAyuUeEL7PsiL05S5hhA/exec"
 var registrant_count_request = new XMLHttpRequest();	
 registrant_count_request.onreadystatechange = function () {	
   if (registrant_count_request.readyState != 4) {	
@@ -19,7 +19,7 @@ registrant_count_request.onreadystatechange = function () {
     document.getElementById("registrant").innerHTML="現在の申込者数は" + registrant_count_request.responseText + "人です。";	
   }	
 };	
-var presenter_count_url = "https://script.google.com/macros/s/AKfycbxTN9NN27pMssd6CNFpF9GVWkrV64jNjONEOHUXAA/exec"
+var presenter_count_url = "https://script.google.com/macros/s/AKfycbyTiA-37X83xfObTi5agrmKp4YOkCWCiMIlGGmYbQ/exec"
 var presenter_count_request = new XMLHttpRequest();	
 presenter_count_request.onreadystatechange = function () {	
   if (presenter_count_request.readyState != 4) {	
@@ -38,7 +38,7 @@ presenter_count_request.send();
 </script>
 
 tofuConfの参加登録ページです。  
-現在、<a href="/2019-09-09/5th-tofuconf-general.html" target="_blank">tofuConf#5</a>の申し込みを受付中です。詳細は<a href="/2019-09-09/5th-tofuconf-general.html" target="_blank">こちら</a>。
+現在、<a href="/2020-01-16/6th-tofuconf-general.html" target="_blank">tofuConf#6</a>の申し込みを受付中です。詳細は<a href="/2020-01-16/6th-tofuconf-general.html" target="_blank">こちら</a>。
 
 ### 申し込み人数について
 
@@ -58,7 +58,7 @@ tofuConfの参加登録ページです。
 
 ### tofuConfでの発表内容について
 
-[tofuConfでの発表形式・発表内容について](/about/presentation.html)をご覧ください。
+[tofuConfでの発表形式・発表内容について](/about/presentation)をご覧ください。
 
 ### 現在の申込者数
 
@@ -69,9 +69,9 @@ tofuConfの参加登録ページです。
 （この数字は本ページ読み込み時の状況です。）
 
 iOS11のデバイスなどの一部の環境で本ページを閲覧している場合、フォーム入力時に予期せず画面がスクロールされてしまうことがあります。下記URLから入力フォームを開いてお申し込みください。  
-<a href="http://bit.ly/2NLECiy" target="_blank">http://bit.ly/2NLECiy</a>
+<a href="http://bit.ly/3a4MPY1" target="_blank">http://bit.ly/3a4MPY1</a>
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdKdHuy5aku-u0euz_pMoSTztlHnZxsB9JKdPFUAWjFDcfMTA/viewform?embedded=true" width="100%" height="800" frameborder="0" marginheight="0" marginwidth="0">読み込んでいます...</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdDXGzxy0VOTkHpbXW073IVEjkwkFFbQA-KaT4DM7WdnUKEYg/viewform?embedded=true" width="100%" height="800" frameborder="0" marginheight="0" marginwidth="0">読み込んでいます...</iframe>
 
 ## 連絡先
 
