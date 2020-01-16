@@ -49,7 +49,7 @@ tofuConfとは
 
 LT（ライトニングトーク）形式で自由に発表していただけます。  
 tofuConf#6から発表形式（主に発表時間）を変更しようとしています。  
-前回までの発表形式については[tofuConfでの発表形式・発表内容について](/about/presentation){:target="_blank"}をご覧ください。
+前回までの発表形式については[tofuConfでの発表形式・発表内容について](/about/presentation/){:target="_blank"}をご覧ください。  
 今後、詳細が決まり次第このページを更新し、Twitterにて告知します！更新内容をご確認の上、お申し込みください。
 
 ### Twitterのハッシュタグ
