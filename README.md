@@ -32,7 +32,7 @@ bundle exec jekyll build
 
 This repository is licensed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
 
-(C) 2018-2019 [Tiryoh](https://github.com/Tiryoh)
+(C) 2018-2020 [Tiryoh](https://github.com/Tiryoh)
 
 ### Acknowledgement
 
@@ -56,5 +56,5 @@ This website is based on [Minimal Mistakes Jekyll Theme](https://mmistakes.githu
 
 ### contents in `./_posts` and `./_pages` except images, videos, others with credit notation
 
-[CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed) (C) 2018-2019 [Tiryoh](https://github.com/Tiryoh)
+[CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed) (C) 2018-2020 [Tiryoh](https://github.com/Tiryoh)
 
