@@ -147,6 +147,10 @@ exclude:
   - /sample
   - /scripts
   - "*.sh"
+  - "*.gemspec"
+  - staticman.yml
+  - Dockerfile
+  - /docker
 keep_files:
   - .git
   - .svn
