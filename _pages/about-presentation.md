@@ -3,6 +3,8 @@
 title:  "tofuConfでの発表形式・発表内容について"
 layout: archive
 permalink: /about/presentation/
+redirect_from:
+  - /about/presentation.html
 header:
   og_image: "/images/logo.png"
 
