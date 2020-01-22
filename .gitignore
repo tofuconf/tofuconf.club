@@ -1,6 +1,7 @@
 _site/
 .sass-cache/
 images/tmp/
+.jekyll-cache/
 
 ### https://raw.github.com/github/gitignore/9f847e58591602162526ca9af339ed3ff4502252/Global/macOS.gitignore
 
