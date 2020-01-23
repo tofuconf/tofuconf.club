@@ -3,7 +3,7 @@
 title: "tofuConf#6 参加者・発表者の受付を開始しました"
 header:
   # og_image: "/images/tofuconf6th.jpg"
-  # teaser: "/images/tofuconf6th.jpg"
+  teaser: "/images/favicons/icon-512x512.png"
 categories: 
   - お知らせ
   - 開催概要
