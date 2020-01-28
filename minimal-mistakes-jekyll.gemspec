@@ -22,7 +22,7 @@ Gem::Specification.new do |spec|
   spec.add_runtime_dependency "jekyll-feed", ">= 0.9.2", "< 0.14.0"
   spec.add_runtime_dependency "jekyll-data", "~> 1.0"
   spec.add_runtime_dependency "jemoji", "~> 0.8"
-  spec.add_runtime_dependency "jekyll-redirect-from", "~> 0.15.0"
+  spec.add_runtime_dependency "jekyll-redirect-from", ">= 0.15", "< 0.17"
 
   spec.add_development_dependency "rake", "~> 13.0"
 end
