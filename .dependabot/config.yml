@@ -1,0 +1,36 @@
+version: 1
+update_configs:
+  - package_manager: "javascript"
+    directory: "/"
+    update_schedule: "daily"
+    allowed_updates:
+      - match:
+          update_type: "all"
+    version_requirement_updates: "auto"
+    target_branch: "master"
+    commit_message:
+      prefix: "chore"
+    default_reviewers:
+      - "Tiryoh"
+    default_assignees:
+      - "Tiryoh"
+    default_labels:
+      - "dependencies"
+      - "javascript"
+  - package_manager: "ruby:bundler"
+    directory: "/"
+    update_schedule: "daily"
+    allowed_updates:
+      - match:
+          update_type: "all"
+    version_requirement_updates: "auto"
+    target_branch: "master"
+    commit_message:
+      prefix: "chore"
+    default_reviewers:
+      - "Tiryoh"
+    default_assignees:
+      - "Tiryoh"
+    default_labels:
+      - "dependencies"
+      - "ruby"
