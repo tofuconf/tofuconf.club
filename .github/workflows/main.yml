@@ -1,0 +1,67 @@
+name: Deploy
+
+on:
+  push:
+    branches:
+      - master
+
+env:
+  JEKYLL_VERSION: 3.8
+  JEKYLL_ENV: production
+  TZ: Asia/Tokyo
+
+jobs:
+  build:
+    runs-on: ubuntu-18.04
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: "0"
+
+      - name: Checkout submodules
+        shell: bash
+        run: |
+          auth_header="$(git config --local --get http.https://github.com/.extraheader)"
+          git submodule sync --recursive
+          git -c "http.extraheader=$auth_header" -c protocol.version=2 submodule update --init --force --recursive --depth=1
+
+      - uses: actions/setup-ruby@v1
+        with:
+          ruby-version: "2.6"
+
+      - uses: actions/cache@v1
+        with:
+          path: vendor/bundle
+          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-gems-
+
+      - name: Bundle install
+        run: |
+          bundle config path vendor/bundle
+          bundle install --jobs 4 --retry 3
+
+      - run: ./scripts/apply_git_log_as_lastmodified_date.sh
+
+      - name: Build HTML
+        run: |
+          bundle exec jekyll build --config _config.yml
+
+      - name: Verify URL in HTML
+        run: |
+          bundle exec htmlproofer --url-ignore "/#.*/,/tofuconf.club/.*/" ./_site
+
+      - name: Prepare SSH 1
+        uses: webfactory/ssh-agent@v0.1.1
+        with:
+          ssh-private-key: ${{ secrets.SSH_PRIVATE_KEY }}
+
+      - name: Prepare SSH 2
+        run: |
+          mkdir -p ~/.ssh && touch ~/.ssh/config
+          echo -e "Host tofuconf.club\n\tIdentityFile ~/.ssh/id_rsa\n\tPort 22001\n" >> ~/.ssh/config
+          ssh-keyscan -H tofuconf.club >> ~/.ssh/known_hosts
+
+      - name: Deploy
+        run: |
+          ./scripts/deploy.sh
