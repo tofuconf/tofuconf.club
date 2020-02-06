@@ -1,0 +1,62 @@
+name: Netlify
+
+on:
+  push:
+  pull_request:
+    types: [opened, synchronize]
+
+env:
+  JEKYLL_VERSION: 3.8
+  JEKYLL_ENV: production
+  TZ: Asia/Tokyo
+
+jobs:
+  build:
+    runs-on: ubuntu-18.04
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: "0"
+
+      - name: Checkout submodules
+        shell: bash
+        run: |
+          auth_header="$(git config --local --get http.https://github.com/.extraheader)"
+          git submodule sync --recursive
+          git -c "http.extraheader=$auth_header" -c protocol.version=2 submodule update --init --force --recursive --depth=1
+
+      - uses: actions/setup-ruby@v1
+        with:
+          ruby-version: "2.6"
+
+      - uses: actions/cache@v1
+        with:
+          path: vendor/bundle
+          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-gems-
+
+      - name: Bundle install
+        run: |
+          bundle config path vendor/bundle
+          bundle install --jobs 4 --retry 3
+
+      - run: ./scripts/apply_git_log_as_lastmodified_date.sh
+
+      - name: Build HTML
+        run: |
+          bundle exec jekyll build --config _config.yml
+
+      - name: Verify URL in HTML
+        run: |
+          bundle exec htmlproofer --url-ignore "/#.*/,/tofuconf.club/.*/" ./_site
+
+      - name: Deploy to Netlify
+        uses: nwtgck/actions-netlify@v0.2.0
+        with:
+          publish-dir: "./_site"
+          production-branch: master
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+        env:
+          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
