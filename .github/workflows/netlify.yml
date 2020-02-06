@@ -43,6 +43,11 @@ jobs:
 
       - run: ./scripts/apply_git_log_as_lastmodified_date.sh
 
+      - name: Update config for Netlify
+        run: |
+          sed -i -e 's#url: "https://tofuconf.club"#url: ""#' _config.yml 
+          # https://github.com/tofuconf/tofuconf.club/pull/122 
+
       - name: Build HTML
         run: |
           bundle exec jekyll build --config _config.yml
