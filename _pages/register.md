@@ -38,7 +38,7 @@ presenter_count_request.send();
 </script>
 
 tofuConfの参加登録ページです。  
-現在、<a href="/2020-01-16/6th-tofuconf-general.html" target="_blank">tofuConf#6</a>の申し込みを受付中です。詳細は<a href="/2020-01-16/6th-tofuconf-general.html" target="_blank">こちら</a>。
+現在、[tofuConf#6](/2020-01-16/6th-tofuconf-general.html)の申し込みを受付中です。詳細は[こちら](/2020-01-16/6th-tofuconf-general.html)。
 
 ### 申し込み人数について
 
