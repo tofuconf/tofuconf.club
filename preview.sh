@@ -3,10 +3,10 @@ set -eu
 
 if $(command -v bundle> /dev/null 2>&1) ; then
     if $(command -v bundle exec jekyll > /dev/null 2>&1) ; then
-        bundle exec jekyll serve --config _config.yml --host='127.0.0.1'
+        bundle exec jekyll serve --config _config.yml --host='127.0.0.1'  --trace
     else
         bundle install --path vendor/bundle
-        bundle exec jekyll serve --config _config.yml --host='127.0.0.1'
+        bundle exec jekyll serve --config _config.yml --host='127.0.0.1'  --trace
     fi
 else
     JEKYLL_VERSION=3.8
