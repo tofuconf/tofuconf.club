@@ -57,7 +57,7 @@ jobs:
           bundle exec htmlproofer --url-ignore "/#.*/,/tofuconf.club/.*/" ./_site
 
       - name: Deploy to Netlify
-        uses: nwtgck/actions-netlify@v0.2.0
+        uses: nwtgck/actions-netlify@v1.0.3
         with:
           publish-dir: "./_site"
           production-branch: master
