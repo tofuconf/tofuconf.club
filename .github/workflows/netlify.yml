@@ -39,14 +39,15 @@ jobs:
       - name: Bundle install
         run: |
           bundle config path vendor/bundle
+          bundle config build.sassc --disable-march-tune-native # https://github.com/sass/sassc-ruby/issues/146
+          if [ ! -e vendor/bundle/.sassc.updated.146 ]; then rm -f vendor/bundle/specifications/sassc-*; touch vendor/bundle/.sassc.updated.146; fi # trigger a rebuild once
           bundle install --jobs 4 --retry 3
 
       - run: ./scripts/apply_git_log_as_lastmodified_date.sh
 
       - name: Update config for Netlify
         run: |
-          sed -i -e 's#url: "https://tofuconf.club"#url: ""#' _config.yml 
-          # https://github.com/tofuconf/tofuconf.club/pull/122 
+          sed -i -e 's#url: "https://tofuconf.club"#url: ""#' _config.yml # https://github.com/tofuconf/tofuconf.club/pull/122 
 
       - name: Build HTML
         run: |
