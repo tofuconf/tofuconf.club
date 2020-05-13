@@ -1,6 +1,6 @@
 ---
 
-title: "tofuConf#6 参加者・発表者の受付を開始しました"
+title: "tofuConf#6 参加者・発表者の受付を開始しました[※2/18に受付終了しました]"
 header:
   # og_image: "/images/tofuconf6th.jpg"
   teaser: "/images/favicons/icon-512x512.png"
@@ -18,7 +18,10 @@ author: Daisuke Sato
 
 <!-- ![](/images/tofuconf6th.jpg){:alt="tofuConf#6"} -->
 
-__tofuConf参加登録ページは[こちら](/register/)です。__
+~~__tofuConf参加登録ページは[こちら](/register/)です。__~~
+
+__新型コロナウイルス感染症（COVID-19）対応のためtofuConf#6の開催を中止します。__  
+詳細は[こちら](/2020-02-18/tofuconf-covid19.html)をご覧ください。
 
 tofuConfとは
 東工大附属関係者が一堂に会し、様々な経験や興味などについて、
