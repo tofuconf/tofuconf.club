@@ -11,7 +11,8 @@ env:
 
 jobs:
   build:
-    runs-on: ubuntu-18.04
+    runs-on: ubuntu-latest
+    continue-on-error: true
     steps:
       - uses: actions/checkout@v2
         with:
@@ -47,7 +48,6 @@ jobs:
           bundle exec jekyll build --config _config.yml
 
       - name: Verify URL in HTML
-        continue-on-error: true
         run: |
           bundle exec htmlproofer --url-ignore "/#.*/,/tofuconf.club/.*/" ./_site
 
