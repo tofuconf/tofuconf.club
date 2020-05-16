@@ -47,6 +47,7 @@ jobs:
           bundle exec jekyll build --config _config.yml
 
       - name: Verify URL in HTML
+        continue-on-error: true
         run: |
           bundle exec htmlproofer --url-ignore "/#.*/,/tofuconf.club/.*/" ./_site
 
