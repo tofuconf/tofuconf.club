@@ -38,7 +38,7 @@ presenter_count_request.send();
 </script>
 
 tofuConfの参加登録ページです。  
-現在、tofuConf#7の申し込みを受付中です。詳細は[こちら](/2020-05-16/7th-tofuconf-general.html)。
+現在、tofuConf#7の申し込みを受付中です。詳細は[こちら](/2020-05-17/7th-tofuconf-general.html)。
 
 ### 申し込み人数について
 
