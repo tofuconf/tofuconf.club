@@ -48,6 +48,7 @@ jobs:
           bundle exec htmlproofer --url-ignore "/#.*/,/tofuconf.club/.*/" ./_site
 
       - name: Prepare SSH 1
+        if: ${{ always() }}
         uses: webfactory/ssh-agent@v0.2.0
         with:
           ssh-private-key: ${{ secrets.SSH_PRIVATE_KEY }}
