@@ -8,7 +8,7 @@ permalink: /register/
 
 <script type="text/javascript">	
 <!--	
-var registrant_count_url = "https://script.google.com/macros/s/AKfycbzrxnNiEFfzDX0YG5JNU4SAyuUeEL7PsiL05S5hhA/exec"
+var registrant_count_url = "https://script.google.com/macros/s/AKfycbwH5TImkAbEIg7OuksbWDchH4GfNi7k0_KLJT7WI1L3eUQqBBQ/exec"
 var registrant_count_request = new XMLHttpRequest();	
 registrant_count_request.onreadystatechange = function () {	
   if (registrant_count_request.readyState != 4) {	
@@ -19,7 +19,7 @@ registrant_count_request.onreadystatechange = function () {
     document.getElementById("registrant").innerHTML="現在の申込者数は" + registrant_count_request.responseText + "人です。";	
   }	
 };	
-var presenter_count_url = "https://script.google.com/macros/s/AKfycbyTiA-37X83xfObTi5agrmKp4YOkCWCiMIlGGmYbQ/exec"
+var presenter_count_url = "https://script.google.com/macros/s/AKfycbw3X_2Ysi75tzDymFbZF718G_BDjr3KdxpXdLlmU4LjHGoegPA/exec"
 var presenter_count_request = new XMLHttpRequest();	
 presenter_count_request.onreadystatechange = function () {	
   if (presenter_count_request.readyState != 4) {	
@@ -38,14 +38,11 @@ presenter_count_request.send();
 </script>
 
 tofuConfの参加登録ページです。  
-現在、[tofuConf#6](/2020-01-16/6th-tofuconf-general.html)の申し込みを受付中です。詳細は[こちら](/2020-01-16/6th-tofuconf-general.html)。
+現在、tofuConf#7の申し込みを受付中です。詳細は[こちら](/2020-05-16/7th-tofuconf-general.html)。
 
 ### 申し込み人数について
 
 参加希望者が参加可能人数を大幅に超えた場合、LT希望者が規定枠数を超えた場合は先着順で受付を締め切る場合があります。
-
-[2020年2月16日 16:48追記]  
-申込者多数につき、発表参加者の申込受付を終了しました。聴講参加者は継続して募集しています。
 
 ### 個人情報の取り扱いについて
 
@@ -71,10 +68,7 @@ tofuConfの参加登録ページです。
 このメッセージがずっと表示されている場合は人数が正しく表記されていない可能性があります。運営に連絡をお願いします。</div><br>
 （この数字は本ページ読み込み時の状況です。）
 
-iOS11のデバイスなどの一部の環境で本ページを閲覧している場合、フォーム入力時に予期せず画面がスクロールされてしまうことがあります。下記URLから入力フォームを開いてお申し込みください。  
-<a href="http://bit.ly/3a4MPY1" target="_blank">http://bit.ly/3a4MPY1</a>
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdDXGzxy0VOTkHpbXW073IVEjkwkFFbQA-KaT4DM7WdnUKEYg/viewform?embedded=true" width="100%" height="800" frameborder="0" marginheight="0" marginwidth="0">読み込んでいます...</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc060OJuHreqXLlKQ9Qx2VBhhyQCNP045-yULUsq_QIvWY9Og/viewform?embedded=true" width="100%" height="800" frameborder="0" marginheight="0" marginwidth="0">読み込んでいます...</iframe>
 
 ## 連絡先
 
