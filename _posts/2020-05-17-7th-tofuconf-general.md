@@ -1,6 +1,6 @@
 ---
 
-title: "tofuConf#7 参加者・発表者の受付を開始しました"
+title: "tofuConf#7 参加者・発表者の受付を開始しました[※5/30に受付終了しました]"
 header:
   # og_image: "/images/tofuconf6th.jpg"
   teaser: "/images/favicons/icon-512x512.png"
@@ -18,7 +18,7 @@ author: Daisuke Sato
 
 <!-- ![](/images/tofuconf7th.jpg){:alt="tofuConf#7"} -->
 
-__tofuConf参加登録ページは[こちら](/register/)です。__
+~~__tofuConf参加登録ページは[こちら](/register/)です。__~~※5/30に受付終了しました
 
 tofuConfとは
 東工大附属関係者が一堂に会し、様々な経験や興味などについて、
