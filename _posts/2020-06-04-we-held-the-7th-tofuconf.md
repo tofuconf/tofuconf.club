@@ -8,8 +8,8 @@ categories:
   - お知らせ
 tags:
   - tofuConf#7
-date: 2020-06-03T22:05:48+09:00
-last_modified_at: 2020-06-03T22:05:48+09:00
+date: 2020-06-04T22:05:48+09:00
+last_modified_at: 2020-06-04T22:05:48+09:00
 author: Daisuke Sato
 
 ---
