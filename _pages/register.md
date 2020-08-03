@@ -8,7 +8,7 @@ permalink: /register/
 
 <script type="text/javascript">	
 <!--	
-var registrant_count_url = "https://script.google.com/macros/s/AKfycbwH5TImkAbEIg7OuksbWDchH4GfNi7k0_KLJT7WI1L3eUQqBBQ/exec"
+var registrant_count_url = "https://script.google.com/macros/s/AKfycbzb0KHFUW3sORRtSnit0vzOB-d2UCp7hWaIFW1DxA/exec"
 var registrant_count_request = new XMLHttpRequest();	
 registrant_count_request.onreadystatechange = function () {	
   if (registrant_count_request.readyState != 4) {	
@@ -19,7 +19,7 @@ registrant_count_request.onreadystatechange = function () {
     document.getElementById("registrant").innerHTML="現在の申込者数は" + registrant_count_request.responseText + "人です。";	
   }	
 };	
-var presenter_count_url = "https://script.google.com/macros/s/AKfycbw3X_2Ysi75tzDymFbZF718G_BDjr3KdxpXdLlmU4LjHGoegPA/exec"
+var presenter_count_url = "https://script.google.com/macros/s/AKfycbzHTw_U5mrG7LaoPXKJlRXE8IZbXpLUM2jewIovNalxS-fSssw/exec"
 var presenter_count_request = new XMLHttpRequest();	
 presenter_count_request.onreadystatechange = function () {	
   if (presenter_count_request.readyState != 4) {	
@@ -38,7 +38,7 @@ presenter_count_request.send();
 </script>
 
 tofuConfの参加登録ページです。  
-現在、tofuConf#7の申し込みを受付中です。詳細は[こちら](/2020-05-17/7th-tofuconf-general.html)。
+現在、tofuConf#8の申し込みを受付中です。詳細は[こちら](/2020-08-01/8th-tofuconf-general.html)。
 
 ### 申し込み人数について
 
@@ -68,7 +68,7 @@ tofuConfの参加登録ページです。
 このメッセージがずっと表示されている場合は人数が正しく表記されていない可能性があります。運営に連絡をお願いします。</div><br>
 （この数字は本ページ読み込み時の状況です。）
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc060OJuHreqXLlKQ9Qx2VBhhyQCNP045-yULUsq_QIvWY9Og/viewform?embedded=true" width="100%" height="800" frameborder="0" marginheight="0" marginwidth="0">読み込んでいます...</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfd5Di_ki03j8ArQmq90t3HEEpz9fUGeNcokzekGeukUj1cZQ/viewform?embedded=true" width="100%" height="800" frameborder="0" marginheight="0" marginwidth="0">読み込んでいます...</iframe>
 
 ## 連絡先
 
