@@ -1,6 +1,6 @@
 ---
 
-title: "tofuConf#8 参加者・発表者の受付を開始しました"
+title: "tofuConf#8 参加者・発表者の受付を開始しました[※8/30(日)に受付終了しました]"
 header:
   # og_image: "/images/tofuconf6th.jpg"
   teaser: "/images/favicons/icon-512x512.png"
@@ -18,7 +18,7 @@ author: Kuto Ojima
 
 <!-- ![](/images/tofuconf7th.jpg){:alt="tofuConf#7"} -->
 
-__tofuConf参加登録ページは[こちら](/register/)です。__
+~~__tofuConf参加登録ページは[こちら](/register/)です。__~~※8/30(日)に受付終了しました
 
 tofuConfとは
 東工大附属関係者が一堂に会し、様々な経験や興味などについて、
@@ -167,6 +167,9 @@ LT（ライトニングトーク）形式で自由に発表していただけま
 
 * 発表者リストを掲載しました。
 
+### 2020年8月30日
+
+* リスト内発表タイトルを追加しました。
 
 
 __本企画は東京工業大学附属科学技術高等学校並びに芝浦工業会によるものではありません。__
