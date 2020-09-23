@@ -8,8 +8,8 @@ categories:
   - お知らせ
 tags:
   - tofuConf#8
-date: 2020-09-16T00:00:00+09:00
-last_modified_at: 2020-09-16T00:00:00+09:00
+date: 2020-09-24T00:00:00+09:00
+last_modified_at: 2020-09-24T00:00:00+09:00
 author: Kuto Ojima
 
 ---
