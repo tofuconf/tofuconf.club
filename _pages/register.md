@@ -5,40 +5,8 @@ layout: archive
 permalink: /register/
 
 ---
-
-<script type="text/javascript">	
-<!--	
-var registrant_count_url = "https://script.google.com/macros/s/AKfycbzb0KHFUW3sORRtSnit0vzOB-d2UCp7hWaIFW1DxA/exec"
-var registrant_count_request = new XMLHttpRequest();	
-registrant_count_request.onreadystatechange = function () {	
-  if (registrant_count_request.readyState != 4) {	
-    document.getElementById("registrant").innerHTML="読み込み中...";	
-  } else if (registrant_count_request.status != 200) {	
-    document.getElementById("registrant").innerHTML="エラーが発生しています。スクリーンショットとともに運営に問い合わせてください。";	
-  } else {	
-    document.getElementById("registrant").innerHTML="現在の申込者数は" + registrant_count_request.responseText + "人です。";	
-  }	
-};	
-var presenter_count_url = "https://script.google.com/macros/s/AKfycbzHTw_U5mrG7LaoPXKJlRXE8IZbXpLUM2jewIovNalxS-fSssw/exec"
-var presenter_count_request = new XMLHttpRequest();	
-presenter_count_request.onreadystatechange = function () {	
-  if (presenter_count_request.readyState != 4) {	
-    document.getElementById("presenter").innerHTML="読み込み中...";	
-  } else if (presenter_count_request.status != 200) {	
-    document.getElementById("presenter").innerHTML="エラーが発生しています。スクリーンショットとともに運営に問い合わせてください。";	
-  } else {	
-    document.getElementById("presenter").innerHTML="申込者のうち発表希望者は" + presenter_count_request.responseText + "人です。";	
-  }	
-};	
- registrant_count_request.open('GET', registrant_count_url);	
-presenter_count_request.open('GET', presenter_count_url);	
-registrant_count_request.send();	
-presenter_count_request.send();	
- -->	
-</script>
-
 tofuConfの参加登録ページです。  
-現在、tofuConf#8の申し込みを受付中です。詳細は[こちら](/2020-08-01/8th-tofuconf-general.html)。
+現在、tofuConf#9の申し込みを受付中です。詳細は[こちら](/2020-10-14/9th-tofuconf-general.html)。
 
 ### 申し込み人数について
 
@@ -60,15 +28,17 @@ tofuConfの参加登録ページです。
 
 [tofuConfでの発表形式・発表内容について](/about/presentation)をご覧ください。
 
-### 現在の申込者数
 
-<div id="registrant">申込者数を確認しています...<br>
-このメッセージがずっと表示されている場合は人数が正しく表記されていない可能性があります。運営に連絡をお願いします。</div>
-<div id="presenter">発表希望者数を確認しています...<br>
-このメッセージがずっと表示されている場合は人数が正しく表記されていない可能性があります。運営に連絡をお願いします。</div><br>
-（この数字は本ページ読み込み時の状況です。）
+### tofuConf参加申込フォーム
+connpassより参加登録・発表登録をお願いします。下記リンクがtofuConf#9の登録ページです。外部サイトへと遷移致します。
+[tofuConf#9参加登録ページ(未公開のため遷移しない)](https://tofuconf.connpass.com/event/hogehoge)
+今回よりconnpassのサイトを通じての登録となっており、Googleフォーム回答での登録から変更となっていますのでご注意ください。
+登録〆切は当日の午後12時(正午)としておりますが、それ以降の飛び入り参加の場合はTwitter宛にリプライまたはDMにてお知らせください。
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfd5Di_ki03j8ArQmq90t3HEEpz9fUGeNcokzekGeukUj1cZQ/viewform?embedded=true" width="100%" height="800" frameborder="0" marginheight="0" marginwidth="0">読み込んでいます...</iframe>
+発表希望者多数の場合は、先着順で発表者を決定します。
+アカデミック枠での発表を希望される方は「LT発表(アカデミック枠)」を選択し、ご応募ください。
+
+
 
 ## 連絡先
 

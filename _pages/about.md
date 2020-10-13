@@ -31,7 +31,7 @@ __本企画は東京工業大学附属科学技術高等学校並びに芝浦工
 * [Twitter@tofuConf](https://twitter.com/tofuConf){:target="_blank"}
 * tofuconf[at]gmail.com
 
-2019年1月現在、Website、Twitterはそれぞれ担当者が異なります。  
+2020年10月現在、Website、Twitterはそれぞれ担当者が異なります。  
 お返事・Website反映までに時間を要する場合もあります。
 あらかじめご了承ください。
 
