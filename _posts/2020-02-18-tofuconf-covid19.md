@@ -16,7 +16,7 @@ author: Daisuke Sato
 新型コロナウイルス感染症（COVID-19）へのtofuConfの対応について、本ページにて発表します。  
 __tofuConf#6の開催を中止します。__
 
-本ページは随時更新されます。更新履歴は[こちら](https://github.com/tofuconf/tofuconf.club/commits/master/_posts/2020-02-18-tofuconf-covid19.md)から確認できます。
+~~本ページは随時更新されます。~~ 更新履歴は[こちら](https://github.com/tofuconf/tofuconf.club/commits/master/_posts/2020-02-18-tofuconf-covid19.md)から確認できます。
 
 ## 中止対象となる開催予定のイベントについて
 
@@ -62,6 +62,10 @@ __tofuConf#6の開催を中止します。__
 ### 2020年2月20日
 
 * キャンセル料について追記しました。
+
+### 2020年10月14日
+
+* 更新完了につき「更新されます」の表記を取り消しました。
 
 
 __本企画は東京工業大学附属科学技術高等学校並びに芝浦工業会によるものではありません。__
