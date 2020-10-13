@@ -30,9 +30,11 @@ tofuConfの参加登録ページです。
 
 
 ### tofuConf参加申込フォーム
-connpassより参加登録・発表登録をお願いします。下記リンクがtofuConf#9の登録ページです。外部サイトへと遷移致します。
-[tofuConf#9参加登録ページ(未公開のため遷移しない)](https://tofuconf.connpass.com/event/hogehoge)
+[connpass tofuConf#9参加登録ページ(未公開のため遷移しない)](https://tofuconf.connpass.com/event/hogehoge)より参加登録・発表登録をお願いします。
+外部サイトへと遷移致します。
+
 今回よりconnpassのサイトを通じての登録となっており、Googleフォーム回答での登録から変更となっていますのでご注意ください。
+
 登録〆切は当日の午後12時(正午)としておりますが、それ以降の飛び入り参加の場合はTwitter宛にリプライまたはDMにてお知らせください。
 
 発表希望者多数の場合は、先着順で発表者を決定します。
