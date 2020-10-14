@@ -16,7 +16,7 @@ author: Kuto Ojima
 ---
 2020年11月15日（日）にtofuConf#9を開催します。本ページがtofuConf#9の公式ページです。
 
-<!-- ![](/images/tofuconf7th.jpg){:alt="tofuConf#7"} -->
+<!-- ![](/images/tofuconf9th.jpg){:alt="tofuConf#9"} -->
 
 __tofuConf参加登録ページは[こちら](/register/)です。__
 
@@ -71,7 +71,8 @@ LT（ライトニングトーク）形式で自由に発表していただけま
 
 ## 申し込み方法
 
-[tofuConf参加登録ページ](/register/)をご参照の上、connpassより参加登録・発表登録をお願いします。
+[connpassページ](https://tofuconf.connpass.com/event/190187/)を通じた申込みに変更になっております。
+上記ページをご参照の上、connpassより参加登録・発表登録をお願いします。
 今回より申込み方法が変更となっておりますのでご注意ください。
  
 
