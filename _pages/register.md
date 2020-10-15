@@ -10,7 +10,7 @@ tofuConf#9より、[connpassページ](https://tofuconf.connpass.com/)を通じ�
 申込みの際、ご注意ください。
 
 
-tofuConf#9公式ページは[こちら](/2020-10-14/9th-tofuconf-general.html)。
+tofuConf#9公式ページは[こちら](/2020-10-15/9th-tofuconf-general.html)。
 
 
 ## 連絡先
