@@ -18,7 +18,7 @@ author: Kuto Ojima
 
 <!-- ![](/images/tofuconf9th.jpg){:alt="tofuConf#9"} -->
 
-__tofuConf参加登録ページは[こちら](/register/)です。__
+__tofuConf参加登録ページは[こちら](https://tofuconf.connpass.com/event/190187/)です。__
 
 tofuConfとは
 東工大附属関係者が一堂に会し、様々な経験や興味などについて、
