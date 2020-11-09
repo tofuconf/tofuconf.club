@@ -41,6 +41,7 @@ jobs:
       - name: Update config for Netlify
         run: |
           sed -i -e 's#url: "https://tofuconf.club"#url: ""#' _config.yml # https://github.com/tofuconf/tofuconf.club/pull/122
+          sed -i -e 's#tracking_id: ".*"#tracking_id: ""#' _config.yml
 
       - name: Build HTML
         run: |
