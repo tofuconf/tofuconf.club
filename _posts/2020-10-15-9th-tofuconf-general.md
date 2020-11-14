@@ -1,6 +1,6 @@
 ---
 
-title: "tofuConf#9 参加者・発表者の受付を開始しました"
+title: "tofuConf#9 参加者・発表者の受付を開始しました[※11/14に受付終了しました]"
 header:
   # og_image: "/images/tofuconf6th.jpg"
   teaser: "/images/favicons/icon-512x512.png"
@@ -14,7 +14,16 @@ last_modified_at: 2020-05-17T00:14:40+09:00
 author: Kuto Ojima
 
 ---
-2020年11月15日（日）にtofuConf#9を開催します。本ページがtofuConf#9の公式ページです。
+
+本ページがtofuConf#9の公式ページです。  
+2020年11月15日（日）開催予定のtofuConf#9を、勝手ながら「中止」とさせていただきます。
+
+下記のツイートでもお知らせしております通り、発表希望者数等に鑑みて、開催を中止する運びとなりました。
+楽しみにしていただいていた皆様には申し訳ありません。  
+今後については改めてお知らせいたします。本ページの更新履歴は[このページ](https://github.com/tofuconf/tofuconf.club/commits/master/_posts/2020-10-15-9th-tofuconf-general.md)より確認できます。
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">延期の上での開催など今後につきましては、改めて検討しお知らせいたします。<br>今後とも活動へのご協力よろしくお願いいたします。<a href="https://twitter.com/hashtag/tofuConf?src=hash&amp;ref_src=twsrc%5Etfw">#tofuConf</a> <a href="https://t.co/rmP159yMCJ">https://t.co/rmP159yMCJ</a></p>&mdash; tofuConf (@tofuConf) <a href="https://twitter.com/tofuConf/status/1326531560108032001?ref_src=twsrc%5Etfw">November 11, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 <!-- ![](/images/tofuconf9th.jpg){:alt="tofuConf#9"} -->
 
