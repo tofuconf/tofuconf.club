@@ -49,7 +49,7 @@ jobs:
 
       - name: Verify URL in HTML
         run: |
-          bundle exec htmlproofer --url-ignore "/#.*/,/tofuconf.club/.*/" ./_site
+          bundle exec htmlproofer --http-status-ignore "400,999" --url-ignore "/#.*/,/tofuconf.club/.*/" ./_site
 
       - name: Deploy to Netlify
         if: ${{ always() }}
