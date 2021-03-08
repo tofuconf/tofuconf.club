@@ -19,7 +19,7 @@ author: Daisuke Sato
 
 <!-- ![](/images/tofuconf9th.jpg){:alt="tofuConf#9"} -->
 
-__tofuConf参加登録ページは[こちら](https://tofuconf.connpass.com/)です。__
+__tofuConf参加登録ページは[こちら](https://tofuconf.connpass.com/event/)です。__
 
 tofuConfとは
 東工大附属関係者が一堂に会し、様々な経験や興味などについて、
@@ -74,7 +74,7 @@ LT（ライトニングトーク）形式で自由に発表していただけま
 ## 申し込み方法
 
 tofuConf#8までとは異なり、
-[connpass](https://tofuconf.connpass.com/)を通じた申込みに変更になっております。
+[connpass](https://tofuconf.connpass.com/event)を通じた申込みに変更になっております。  
 上記ページをご参照の上、connpassより参加登録・発表登録をお願いします。
 
 
