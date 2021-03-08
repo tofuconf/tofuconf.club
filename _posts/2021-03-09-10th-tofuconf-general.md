@@ -15,7 +15,7 @@ author: Daisuke Sato
 
 ---
 
-本ページがtofuConf#10の公式ページです。  
+2021年3月21日（日）にtofuConf#10を開催します。本ページがtofuConf#10の公式ページです。  
 
 <!-- ![](/images/tofuconf9th.jpg){:alt="tofuConf#9"} -->
 
