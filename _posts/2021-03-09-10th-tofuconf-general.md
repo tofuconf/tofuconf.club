@@ -1,6 +1,6 @@
 ---
 
-title: "tofuConf#10 参加者・発表者の受付を開始しました"
+title: "tofuConf#10 参加者・発表者の受付を開始しました[※3/21に受付終了しました]"
 header:
   # og_image: "/images/tofuconf6th.jpg"
   teaser: "/images/favicons/icon-512x512.png"
