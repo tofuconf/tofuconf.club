@@ -48,6 +48,13 @@ jobs:
         run: |
           bundle exec jekyll build --config _config.yml
 
+      - name: Approve PR if the build is successful
+        env:
+          GH_TOKEN: ${{ secrets.TOFUCONF_BOT_PAT }}
+        run: |
+          gh pr review ${{ github.event.number }} --approve
+          gh pr edit ${{ github.event.number }} --remove-reviewer login
+
       - name: Verify URL in HTML
         run: |
           bundle exec htmlproofer --http-status-ignore "400,999" --url-ignore "/#.*/,/tofuconf.club/.*/" ./_site
