@@ -1,6 +1,6 @@
 ---
 
-title: "tofuConf#11 参加者・発表者の受付を開始しました[※3/21に受付終了しました]"
+title: "tofuConf#11 参加者・発表者の受付を開始しました"
 header:
   # og_image: "/images/tofuconf6th.jpg"
   teaser: "/images/favicons/icon-512x512.png"
@@ -19,7 +19,7 @@ author: sinuture
 
 <!-- ![](/images/tofuconf9th.jpg){:alt="tofuConf#9"} -->
 
-__tofuConf参加登録ページは[こちら](https://connpass.com/event/207123)です。__
+__tofuConf参加登録ページは[こちら](https://connpass.com/event/221418)です。__
 
 tofuConfとは
 東工大附属関係者が一堂に会し、様々な経験や興味などについて、
@@ -74,7 +74,7 @@ LT（ライトニングトーク）形式で自由に発表していただけま
 ## 申し込み方法
 
 tofuConf#8までとは異なり、
-[connpass](connpass.com/event/221418)を通じた申込みに変更になっております。  
+[connpass](https://connpass.com/event/221418)を通じた申込みに変更になっております。  
 上記ページをご参照の上、connpassより参加登録・発表登録をお願いします。
 
 
@@ -103,7 +103,7 @@ tofuConf#8までとは異なり、
   * 4:3でも問題ありませんが、16:9が見やすいと思います。
 * 今回からLTの参加方法に「動画参加」を追加します。
   * 当日予定があって参加できない方でも事前に動画を撮影しての参加が可能です。
-  * 通常通り発表枠で申込後、connpassの[イベント管理者へのお問い合わせ](https://tofuconf.connpass.com/event/207123/inquiry/)または tofuconf[at]gmail.com  までご連絡ください。
+  * 通常通り発表枠で申込後、connpassの[イベント管理者へのお問い合わせ](https://tofuconf.connpass.com/event/221418/inquiry/)または tofuconf[at]gmail.com  までご連絡ください。
 
 ## Q&A（随時更新）
 
@@ -113,7 +113,7 @@ tofuConf#8までとは異なり、
 
 | 発表者名 | 発表予定タイトル |
 |:--------:|:----------------------:|
-|||
+|tmp|tmp|
 
 [AC]はアカデミック枠での発表です
 
@@ -132,11 +132,7 @@ tofuConf#8までとは異なり、
 
 ※年度順、50音順
 
-* 2004年3月卒 神谷光佑
-* 2013年3月卒 髙野力
-* 2014年3月卒 佐藤大亮
-* 2016年3月卒 大久保喬
-* 現3年生 芝浜
+* tmp
 
 
 ## 更新履歴
