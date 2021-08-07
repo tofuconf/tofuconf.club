@@ -34,7 +34,7 @@ tofuConfとは
 
 ### 場所
 
-[TIME SPACE渋谷](https://www.spacemarket.com/spaces/-1mlmpaVvsb7aSVs/rooms/gD3xlktwOLpy5zhy){:target="_blank"}（東京都渋谷区）
+[TIME SPACE渋谷](https://web.archive.org/web/20210302145715/https://www.spacemarket.com/spaces/-1mlmpaVvsb7aSVs/rooms/gD3xlktwOLpy5zhy){:target="_blank"}（東京都渋谷区）
 
 JR渋谷駅より徒歩5分
 （
