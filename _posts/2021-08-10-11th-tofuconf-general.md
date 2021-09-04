@@ -19,7 +19,7 @@ author: sinuture
 
 <!-- ![](/images/tofuconf9th.jpg){:alt="tofuConf#9"} -->
 
-__tofuConf参加登録ページは[こちら](https://tofuconf.connpass.com/event/221428/)です。__
+~~__tofuConf参加登録ページは[こちら](https://tofuconf.connpass.com/event/221428/)です。__~~※9/4に受付終了しました
 
 tofuConfとは
 東工大附属関係者が一堂に会し、様々な経験や興味などについて、
@@ -128,7 +128,7 @@ LT（ライトニングトーク）形式で自由に発表していただけま
 
 ※各LTの発表時間は5分です。アカデミック枠のみ発表時間は15分です。
 
-![](/images/timetable_tofuconf11th){:alt="tofuConf#11timetable"}
+![](/images/timetable_tofuconf11th.png){:alt="tofuConf#11timetable"}
 
 ## 連絡先
 
