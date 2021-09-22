@@ -18,7 +18,7 @@ author: Daisuke Sato
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">本日のタイムテーブルです！<br>入場始まっております。参加予定の方はお見逃しなく！<a href="https://twitter.com/hashtag/tofuConf?src=hash&amp;ref_src=twsrc%5Etfw">#tofuConf</a> <a href="https://t.co/LtVhf1rZcv">pic.twitter.com/LtVhf1rZcv</a></p>&mdash; tofuConf (@tofuConf) <a href="https://twitter.com/tofuConf/status/1434018313533722632?ref_src=twsrc%5Etfw">September 4, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-今回のtofuConf#11では19名の東工大附属高校関係者（スタッフ含む）がオンラインで集まり、無事に会を終えることができました。
+今回のtofuConf#11では30名の東工大附属高校関係者（スタッフ含む）がオンラインで集まり、無事に会を終えることができました。
 ご参加いただいた皆様、関係者の皆様、応援してくださった皆様、ご協力ありがとうございました。
 
 tofuConf#10よりSlackを用いた質疑応答やコメントを導入しています。好評のようでしたので次回も継続を考えております。
