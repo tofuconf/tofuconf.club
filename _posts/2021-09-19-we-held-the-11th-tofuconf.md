@@ -62,6 +62,10 @@ tofuConf#10よりSlackを用いた質疑応答やコメントを導入してい�
 新型コロナウイルス感染症（COVID-19）の収束状況次第ですが、次回もオンライン開催を検討しています。  
 運営メンバーを募集中です。興味のある方は是非ご連絡ください。
 
+次回は12月下旬頃となりそうです。
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">【 <a href="https://twitter.com/hashtag/tofuConf?src=hash&amp;ref_src=twsrc%5Etfw">#tofuConf</a> 日程調査】<br>第11回tofuConfにご参加いただいた皆様、ありがとうございました。<br><br>終わって早々ですが、次回の開催時期についてのアンケートを実施します。<br>豆腐関係者の皆様、ご回答にご協力お願いします。</p>&mdash; tofuConf (@tofuConf) <a href="https://twitter.com/tofuConf/status/1434078606418796550?ref_src=twsrc%5Etfw">September 4, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## 連絡先
 
 * [Twitter@tofuConf](https://twitter.com/tofuConf)
