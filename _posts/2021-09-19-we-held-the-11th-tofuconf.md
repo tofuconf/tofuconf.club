@@ -27,7 +27,7 @@ tofuConf#10よりSlackを用いた質疑応答やコメントを導入してい�
 
 ### 開催ページ
 
-[tofuConf#11 参加者・発表者の受付を開始しました - tofuConf](/2021-08-12/10th-tofuconf-general.html)
+[tofuConf#11 参加者・発表者の受付を開始しました - tofuConf](/2021-08-12/11th-tofuconf-general.html)
 
 ### Twitterのハッシュタグ
 
