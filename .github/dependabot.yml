@@ -12,7 +12,7 @@ updates:
   assignees:
   - Tiryoh
   labels:
-  - dependencies
-  - ruby
+  - "Type: Dependencies"
+  - "Lang: Ruby"
   commit-message:
     prefix: chore
