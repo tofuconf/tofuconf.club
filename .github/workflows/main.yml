@@ -50,7 +50,7 @@ jobs:
           bundle exec htmlproofer --http-status-ignore "400,999" --url-ignore "/#.*/,/tofuconf.club/.*/" ./_site
 
       - name: Prepare SSH 1
-        uses: webfactory/ssh-agent@v0.4.1
+        uses: webfactory/ssh-agent@v0.5.4
         with:
           ssh-private-key: ${{ secrets.SSH_PRIVATE_KEY }}
 
