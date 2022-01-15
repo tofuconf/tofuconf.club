@@ -8,8 +8,8 @@ categories:
   - お知らせ
 tags:
   - tofuConf#12
-date: 2022-01-14T00:48:49+09:00
-last_modified_at: 2022-01-14T00:48:49+09:00
+date: 2022-01-15T12:04:22+09:00
+last_modified_at: 2022-01-15T12:04:22+09:00
 author: Daisuke Sato
 
 ---
