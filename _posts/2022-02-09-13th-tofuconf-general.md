@@ -8,9 +8,9 @@ categories:
   - お知らせ
   - 開催概要
 tags:
-  - tofuConf#12
-date: 2022-02-12T22:34:00+09:00
-last_modified_at: 2022-02-12T22:34:00+09:00
+  - tofuConf#13
+date: 2022-02-09T18:34:00+09:00
+last_modified_at: 2022-02-09T18:34:00+09:00
 author: Takahiro Iso
 
 ---
