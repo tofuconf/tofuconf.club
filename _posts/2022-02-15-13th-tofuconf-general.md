@@ -2,22 +2,22 @@
 
 title: "tofuConf#13 参加者・発表者の受付を開始しました"
 header:
-  # og_image: "/images/tofuconf6th.jpg"
+  # og_image: "/images/tofuconf13th.png"
   teaser: "/images/favicons/icon-512x512.png"
 categories:
   - お知らせ
   - 開催概要
 tags:
   - tofuConf#13
-date: 2022-02-11T18:20:00+09:00
-last_modified_at: 2022-02-11T18:20:00+09:00
+date: 2022-02-15T00:30:40+09:00
+last_modified_at: 2022-02-15T00:30:40+09:00
 author: Takahiro Iso
 
 ---
 
 2022年3月21日（水）にtofuConf#13を開催します。本ページがtofuConf#13の公式ページです。
 
-<!-- ![](/images/tofuconf9th.jpg){:alt="tofuConf#9"} -->
+![](/images/tofuconf13th.png){:alt="tofuConf#13"}
 
 __tofuConf参加登録ページは[こちら](https://tofuconf.connpass.com/event/239069)です。__
 
@@ -113,7 +113,7 @@ LT（ライトニングトーク）形式で自由に発表していただけま
 |:--------:|:----------------------:|
 |||
 
-[AC]はアカデミック枠での発表です
+🎓はアカデミック枠での発表です
 
 ## タイムテーブル
 
