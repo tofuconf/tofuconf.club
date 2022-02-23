@@ -15,7 +15,7 @@ author: Takahiro Iso
 
 ---
 
-2022年3月21日（水）にtofuConf#13を開催します。本ページがtofuConf#13の公式ページです。
+2022年3月21日（月）にtofuConf#13を開催します。本ページがtofuConf#13の公式ページです。
 
 ![](/images/tofuconf13th.png){:alt="tofuConf#13"}
 
@@ -145,8 +145,14 @@ LT（ライトニングトーク）形式で自由に発表していただけま
 
 ## 更新履歴
 
+更新履歴は[こちら](https://github.com/tofuconf/tofuconf.club/commits/master/_posts/2022-02-15-13th-tofuconf-general.md)から確認できます。
+
 ### 2022年2月11日
 
 * ページを公開しました。
+
+### 2022年2月23日
+
+* 誤字の修正をしました。
 
 __本企画は東京工業大学附属科学技術高等学校並びに芝浦工業会によるものではありません。__
