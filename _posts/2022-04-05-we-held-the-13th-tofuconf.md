@@ -8,8 +8,8 @@ categories:
   - お知らせ
 tags:
   - tofuConf#13
-date: 2022-04-04T01:07:42+09:00
-last_modified_at: 2022-04-04T01:07:42+09:00
+date: 2022-04-05T01:06:26+09:00
+last_modified_at: 2022-04-05T01:06:26+09:00
 author: Daisuke Sato
 
 ---
@@ -18,7 +18,7 @@ author: Daisuke Sato
 
 <blockquote class="twitter-tweet" data-conversation="none"><p lang="ja" dir="ltr">tofuConf#13始まりました〜！ <a href="https://twitter.com/hashtag/tofuConf?src=hash&amp;ref_src=twsrc%5Etfw">#tofuConf</a><a href="https://t.co/mJqxSciCbc">https://t.co/mJqxSciCbc</a></p>&mdash; tofuConf (@tofuConf) <a href="https://twitter.com/tofuConf/status/1505774159665672192?ref_src=twsrc%5Etfw">March 21, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-今回のtofuConf#13では14名の東工大附属高校関係者（スタッフ含む）がオンラインで集まり、無事に会を終えることができました。
+今回のtofuConf#13では17名の東工大附属高校関係者（スタッフ含む）がオンラインで集まり、無事に会を終えることができました。
 ご参加いただいた皆様、関係者の皆様、応援してくださった皆様、ご協力ありがとうございました。
 
 ## 開催情報
