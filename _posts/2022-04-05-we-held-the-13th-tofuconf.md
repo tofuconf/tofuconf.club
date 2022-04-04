@@ -16,6 +16,7 @@ author: Daisuke Sato
 
 2022年3月21日（月）、tofuConf#13をオンラインで開催致しました。
 
+
 <blockquote class="twitter-tweet" data-conversation="none"><p lang="ja" dir="ltr">tofuConf#13始まりました〜！ <a href="https://twitter.com/hashtag/tofuConf?src=hash&amp;ref_src=twsrc%5Etfw">#tofuConf</a><a href="https://t.co/mJqxSciCbc">https://t.co/mJqxSciCbc</a></p>&mdash; tofuConf (@tofuConf) <a href="https://twitter.com/tofuConf/status/1505774159665672192?ref_src=twsrc%5Etfw">March 21, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 今回のtofuConf#13では17名の東工大附属高校関係者（スタッフ含む）がオンラインで集まり、無事に会を終えることができました。
