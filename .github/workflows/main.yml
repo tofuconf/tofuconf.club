@@ -14,7 +14,7 @@ jobs:
   build:
     runs-on: ubuntu-18.04
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
         with:
           fetch-depth: "0"
           submodules: "true"
@@ -23,7 +23,7 @@ jobs:
         with:
           ruby-version: "2.6"
 
-      - uses: actions/cache@v2
+      - uses: actions/cache@v3
         with:
           path: vendor/bundle
           key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
@@ -61,7 +61,7 @@ jobs:
           ssh-keyscan -H tofuconf.club >> ~/.ssh/known_hosts
 
       - name: Start deployment
-        uses: bobheadxi/deployments@v0.6.2
+        uses: bobheadxi/deployments@v1.2.0
         id: deployment
         with:
           step: start
@@ -73,11 +73,12 @@ jobs:
           bash ./scripts/deploy.sh
 
       - name: Update deployment status
-        uses: bobheadxi/deployments@v0.6.2
+        uses: bobheadxi/deployments@v1.2.0
         if: always()
         with:
           step: finish
           token: ${{ secrets.GITHUB_TOKEN }}
           status: ${{ job.status }}
+          env: ${{ steps.deployment.outputs.env }}
           deployment_id: ${{ steps.deployment.outputs.deployment_id }}
           env_url: https://tofuconf.club
