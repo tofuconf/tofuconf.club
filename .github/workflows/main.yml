@@ -47,7 +47,7 @@ jobs:
       - name: Verify URL in HTML
         continue-on-error: true
         run: |
-          bundle exec htmlproofer --ignore-status-codes "400,999" --ignore-urls "/#.*/,/tofuconf.club/.*/" ./_site
+          bundle exec htmlproofer --enforce_https false --ignore-status-codes "400,999" --ignore-urls "/#.*/,/tofuconf.club/.*/" ./_site
 
       - name: Prepare SSH 1
         uses: webfactory/ssh-agent@v0.5.4
