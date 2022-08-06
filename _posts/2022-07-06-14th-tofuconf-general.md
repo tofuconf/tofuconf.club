@@ -2,8 +2,8 @@
 
 title: "tofuConf#14 参加者・発表者の受付を開始しました"
 header:
-  # og_image: "/images/tofuconf6th.jpg"
-  teaser: "/images/favicons/icon-512x512.png"
+  og_image: "/images/tofuconf14th.jpg"
+  # teaser: "/images/favicons/icon-512x512.png"
 categories:
   - お知らせ
   - 開催概要
@@ -17,7 +17,7 @@ author: Takahiro Iso
 
 2022年8月7日（日）にtofuConf#14を開催します。本ページがtofuConf#14の公式ページです。
 
-<!-- ![](/images/tofuconf9th.jpg){:alt="tofuConf#9"} -->
+![](/images/tofuconf14th.jpg){:alt="tofuConf#14"}
 
 __tofuConf参加登録ページは[こちら](https://tofuconf.connpass.com/event/253885)です。__
 
@@ -122,10 +122,13 @@ LT（ライトニングトーク）形式で自由に発表していただけま
 | 開始時間 | 終了時間 | 内容 | 発表者 | 備考 |
 | :---: | :---: | --- | --- | --- |
 | 13:50 | 14:00 | 入場 | - | - |
-| 14:00 | 14:15 | オープニング |  | - |
-| 17:40 | 18:00 | エンディング |  | - |
+| 14:00 | 14:10 | オープニング |  | - |
+| 14:20 | 15:10 | 第1部 |  | - |
+| 15:30 | 16:20 | 第2部 |  | - |
+| 16:40 | 17:30 | 第3部 |  | - |
+| 17:40 | 18:00 | クロージング |  | - |
 
-<!--![](/images/timetable_tofuconf14th.png){:alt="tofuConf#14timetable"}-->
+![](/images/timetable_tofuconf14th.jpg){:alt="tofuConf#14timetable"}
 
 ## 連絡先
 
@@ -150,5 +153,9 @@ LT（ライトニングトーク）形式で自由に発表していただけま
 ### 2022年7月7日
 
 * ページを公開しました。
+
+### 2022年8月6日
+
+* タイムテーブルを公開しました。
 
 __本企画は東京工業大学附属科学技術高等学校並びに芝浦工業会によるものではありません。__
