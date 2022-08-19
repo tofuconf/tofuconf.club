@@ -9,6 +9,9 @@ env:
   JEKYLL_ENV: production
   TZ: Asia/Tokyo
 
+permissions:
+  pull-requests: write
+
 jobs:
   build:
     runs-on: ubuntu-18.04
