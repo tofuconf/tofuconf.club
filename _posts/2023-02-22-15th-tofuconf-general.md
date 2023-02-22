@@ -2,7 +2,7 @@
 
 title: "tofuConf#15 参加者・発表者の受付を開始しました"
 header:
-  og_image: "/images/tofuconf14th.jpg"
+  og_image: "/images/tofuconf15th.png"
   # teaser: "/images/favicons/icon-512x512.png"
 categories:
   - お知らせ
