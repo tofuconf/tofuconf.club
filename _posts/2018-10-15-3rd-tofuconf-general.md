@@ -88,7 +88,7 @@ tofuConf#3ではアカデミック枠（課題研究や卒論など）を用意�
 * 当日キャンセル : 500円
 
 当日キャンセルの場合のみ、キャンセル料の支払いをお願いしています。予めご了承ください。
-支払いは[LINEPay](https://line.me/ja/pay){:target="_blank"}、[Kyash](https://kyash.co/){:target="_blank"}、[PayPal](https://www.paypal.com/jp/home){:target="_blank"}、銀行振り込みに対応します。
+支払いは[LINEPay](https://line.me/ja/pay){:target="_blank"}、Kyash、[PayPal](https://www.paypal.com/jp/home){:target="_blank"}、銀行振り込みに対応します。
 
 ## 申し込み方法
 
