@@ -138,8 +138,8 @@ LT（ライトニングトーク）形式で自由に発表していただけま
 | 17:25 | 18:00 | クロージング | - | - |
 
 
-[](/images/_timetable_tofuconf15th_1_.jpg)
-[](/images/_timetable_tofuconf15th_2_.jpg)
+[](/images/_timetable_tofuconf15th_1.jpg)
+[](/images/_timetable_tofuconf15th_2.jpg)
 
 
 ## 連絡先
