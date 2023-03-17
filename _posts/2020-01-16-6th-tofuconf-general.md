@@ -94,7 +94,7 @@ tofuConf#6から発表時間が変わります！
 参加費の支払いは、tofuConf当日、会場にて現金でお願いします。  
 そのほかの支払い方法に対応できる場合は事前に参加者の皆様にメールにてお知らせします。
 
-キャンセル料の支払いは[LINEPay](https://line.me/ja/pay){:target="_blank"}、[Kyash](https://kyash.co/){:target="_blank"}、[PayPal](https://www.paypal.com/jp/home){:target="_blank"}、銀行振り込みに対応します。  
+キャンセル料の支払いは[LINEPay](https://line.me/ja/pay){:target="_blank"}、Kyash、[PayPal](https://www.paypal.com/jp/home){:target="_blank"}、銀行振り込みに対応します。  
 
 ## 申し込み方法
 
