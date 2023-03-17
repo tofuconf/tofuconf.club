@@ -137,10 +137,8 @@ LT（ライトニングトーク）形式で自由に発表していただけま
 | 16:15 | 17:05 | 第2部 | あくしおん、らるご、電電猫猫、sinuture、芝浜 | - |
 | 17:25 | 18:00 | クロージング | - | - |
 
-<!--
-[](/images/_timetable_tofuconf15th_1.jpg)
-[](/images/_timetable_tofuconf15th_2.jpg)
--->
+[](/images/timetable_tofuconf15th_1.jpg)
+[](/images/timetable_tofuconf15th_2.jpg)
 
 ## 連絡先
 
