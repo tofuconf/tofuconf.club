@@ -60,7 +60,7 @@ jobs:
 
       - name: Verify URL in HTML
         run: |
-          bundle exec htmlproofer --enforce_https false --ignore-status-codes "400,999" --ignore-urls "/#.*/,/tofuconf.club/.*/" ./_site
+          bundle exec htmlproofer --enforce_https false --ignore-status-codes "400,999" --ignore-urls "/#.*/,/tofuconf.club/.*/,/twitter.com/,/t.co/" ./_site
 
       - name: Deploy to Netlify
         if: ${{ always() }}
