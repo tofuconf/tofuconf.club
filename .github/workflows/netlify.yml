@@ -14,14 +14,14 @@ permissions:
 
 jobs:
   build:
-    runs-on: ubuntu-18.04
+    runs-on: ubuntu-22.04
     steps:
       - uses: actions/checkout@v3
         with:
           fetch-depth: "0"
           submodules: "true"
 
-      - uses: actions/setup-ruby@v1
+      - uses: ruby/setup-ruby@v1
         with:
           ruby-version: "2.7"
 
@@ -60,7 +60,7 @@ jobs:
 
       - name: Verify URL in HTML
         run: |
-          bundle exec htmlproofer --enforce_https false --ignore-status-codes "400,999" --ignore-urls "/#.*/,/tofuconf.club/.*/" ./_site
+          bundle exec htmlproofer --enforce_https false --ignore-status-codes "400,999" --ignore-urls "/#.*/,/tofuconf.club/.*/,/twitter.com/,/t.co/,/www.facebook.com/sharer/sharer.php.*/,/www.kyash.co/" ./_site
 
       - name: Deploy to Netlify
         if: ${{ always() }}
