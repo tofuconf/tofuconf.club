@@ -9,7 +9,7 @@ if $(bundle > /dev/null 2>&1) ; then
         bundle exec jekyll serve --config _config.yml --host='127.0.0.1'  --trace
     fi
 else
-    JEKYLL_VERSION=3.8.0
+    JEKYLL_VERSION=4.3.2
     docker run --rm \
     --volume="$PWD:/srv/jekyll" \
     -p 4000:4000 \
