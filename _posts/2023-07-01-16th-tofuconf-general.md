@@ -19,7 +19,7 @@ author: sinuture
 
 <!-- ![](/images/tofuconf16th.png){:alt="tofuConf#16"} -->
 
-__tofuConf参加登録ページは[こちら]()です。__
+__tofuConf参加登録ページは[こちら](https://tofuconf.connpass.com/)です。__
 
 tofuConfとは
 東工大附属関係者が一堂に会し、様々な経験や興味などについて、5分程度のプレゼンで発信することで、世代や分野を超えて刺激を与え合い、交流できる場です。
@@ -75,7 +75,7 @@ LT（ライトニングトーク）形式で自由に発表していただけま
 
 ## 申し込み方法
 
-[connpass]()を通じた申し込みです。
+[connpass](https://tofuconf.connpass.com/)を通じた申し込みです。
 上記ページをご参照の上、connpassより参加登録・発表登録をお願いします。
 
 ### 支払い方法
