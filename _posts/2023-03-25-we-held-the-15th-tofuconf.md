@@ -8,8 +8,8 @@ categories:
   - お知らせ
 tags:
   - tofuConf#15
-date: 2023-03-025T23:38:00+09:00
-last_modified_at: 2023-03-025T23:38:00+09:00
+date: 2023-03-25T23:38:00+09:00
+last_modified_at: 2023-03-25T23:38:00+09:00
 author: Kosuke Kamiya
 
 ---
