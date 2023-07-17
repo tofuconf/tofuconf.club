@@ -17,7 +17,7 @@ author: sinuture
 
 2023年9月17日（日）にtofuConf#16を開催します。本ページがtofuConf#16の公式ページです。
 
-<!-- ![](/images/tofuconf16th.png){:alt="tofuConf#16"} -->
+![](/images/tofuconf16th.jpg){:alt="tofuConf#16"}
 
 __tofuConf参加登録ページは[こちら](https://tofuconf.connpass.com/)です。__
 
