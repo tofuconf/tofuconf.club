@@ -19,7 +19,7 @@ author: sinuture
 
 ![](/images/tofuconf16th.jpg){:alt="tofuConf#16"}
 
-__tofuConf参加登録ページは[こちら](https://tofuconf.connpass.com/)です。__
+__tofuConf参加登録ページは追って公開します。__
 
 tofuConfとは
 東工大附属関係者が一堂に会し、様々な経験や興味などについて、5分程度のプレゼンで発信することで、世代や分野を超えて刺激を与え合い、交流できる場です。
