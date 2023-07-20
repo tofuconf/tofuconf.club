@@ -1,8 +1,8 @@
 ---
 
-title: "tofuConf#16を開催します"
+title: "tofuConf#16 参加者・発表者の受付を開始しました"
 header:
-  # og_image: "/images/tofuconf16th.png" 
+  og_image: "/images/tofuconf16th.jpg"
   # teaser: "/images/favicons/icon-512x512.png"
 categories:
   - お知らせ
@@ -10,7 +10,7 @@ categories:
 tags:
   - tofuConf#16
 date: 2023-07-18T14:00:00+09:00
-last_modified_at: 2023-07-18T04:00:00+09:00
+last_modified_at: 2023-07-20T13:00:00+09:00
 author: sinuture
 
 ---
@@ -19,7 +19,7 @@ author: sinuture
 
 ![](/images/tofuconf16th.jpg){:alt="tofuConf#16"}
 
-__tofuConf参加登録ページは追って公開します。__
+__tofuConf参加登録ページは[こちら](https://tofuconf.connpass.com/event/289582)です。__
 
 tofuConfとは
 東工大附属関係者が一堂に会し、様々な経験や興味などについて、5分程度のプレゼンで発信することで、世代や分野を超えて刺激を与え合い、交流できる場です。
@@ -75,7 +75,7 @@ LT（ライトニングトーク）形式で自由に発表していただけま
 
 ## 申し込み方法
 
-[connpass](https://tofuconf.connpass.com/)を通じた申し込みです。
+[connpass](https://tofuconf.connpass.com/event/289582/)を通じた申し込みです。
 上記ページをご参照の上、connpassより参加登録・発表登録をお願いします。
 
 ### 支払い方法
@@ -158,5 +158,9 @@ LT（ライトニングトーク）形式で自由に発表していただけま
 ### 2023年7月18日
 
 * ページを公開しました。
+
+### 2023年7月20日
+
+* 参加者募集を開始しました。
 
 __本企画は東京工業大学附属科学技術高等学校並びに芝浦工業会によるものではありません。__
