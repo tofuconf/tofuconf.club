@@ -142,7 +142,7 @@ connpassを通じた申し込みです。
 
 ## 連絡先
 
-* [Twitter@tofuConf](https://twitter.com/tofuConf)
+* [X(旧Twitter)@tofuConf](https://twitter.com/tofuConf)
 * tofuconf[at]gmail.com
 
 ## 運営
