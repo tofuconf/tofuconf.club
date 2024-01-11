@@ -10,7 +10,7 @@ categories:
 tags:
   - tofuConf#17
 date: 2024-01-12T00:20:00+09:00
-last_modified_at: 2024-01-12T00:20:00+09:00
+last_modified_at: 2024-01-12T00:40:00+09:00
 author: Takahiro Iso
 
 ---
@@ -19,7 +19,7 @@ author: Takahiro Iso
 
 ![](/images/tofuconf17th.png){:alt="tofuConf#17"}
 
-__tofuConf参加登録ページは後日公開します。__
+__tofuConf参加登録ページは[こちら](https://tofuconf.connpass.com/event/307538/)です。__
 
 tofuConfとは
 東工大附属関係者が一堂に会し、様々な経験や興味などについて、5分程度のプレゼンで発信することで、世代や分野を超えて刺激を与え合い、交流できる場です。
@@ -75,9 +75,9 @@ LT（ライトニングトーク）形式で自由に発表していただけま
 
 ## 申し込み方法
 
-connpassを通じた申し込みです。
+[connpass](https://tofuconf.connpass.com/event/307538/)を通じた申し込みです。
 
-ページ完成次第、connpassより参加登録・発表登録をお願いします。
+上記ページをご参照の上、connpassより参加登録・発表登録をお願いします。
 
 ### 支払い方法
 
@@ -142,7 +142,7 @@ connpassを通じた申し込みです。
 
 ## 連絡先
 
-* [Twitter@tofuConf](https://twitter.com/tofuConf)
+* [X(旧Twitter)@tofuConf](https://twitter.com/tofuConf)
 * tofuconf[at]gmail.com
 
 ## 運営
@@ -168,5 +168,9 @@ connpassを通じた申し込みです。
 ### 2024年1月12日
 
 * ページを公開しました。
+
+### 2024年1月12日
+
+* connpassのリンクを追加しました。
 
 __本企画は東京工業大学附属科学技術高等学校並びに芝浦工業会によるものではありません。__
