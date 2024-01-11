@@ -1,6 +1,6 @@
 ---
 
-title: "tofuConf#17 参加者・発表者の受付を開始しました"
+title: "tofuConf#17を開催します"
 header:
   og_image: "/images/tofuconf17th.png"
   # teaser: "/images/favicons/icon-512x512.png"
@@ -76,6 +76,7 @@ LT（ライトニングトーク）形式で自由に発表していただけま
 ## 申し込み方法
 
 connpassを通じた申し込みです。
+
 ページ完成次第、connpassより参加登録・発表登録をお願いします。
 
 ### 支払い方法
@@ -91,7 +92,7 @@ connpassを通じた申し込みです。
 * 会場の設営や後片付けへのご協力をお願いします。
 * イベント中、記録・広報のために会場内や参加者の写真をスタッフが撮影することがあります。ご理解・ご協力をお願いします。
 * [tofuConf イベント行動規範](/conduct/)に沿った行動をお願いします。
-* ご質問等は[Twitter@tofuConf](https://twitter.com/tofuConf)までお願いします。
+* ご質問等は[X(旧Twitter)@tofuConf](https://twitter.com/tofuConf)までお願いします。
 
 ### 発表者の皆様へのお願い
 
