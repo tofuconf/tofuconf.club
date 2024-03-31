@@ -66,7 +66,7 @@ author: Kosuke Kamiya
 * 卒業生(学生)：1500円
 * 卒業生(社会人)：3000円
 
-会計報告は[こちら](/2024-01-01/financial-report.html)です。
+会計報告は[こちら](/2024-04-01/financial-report.html)です。
 
 ## 次回以降の開催について
 
