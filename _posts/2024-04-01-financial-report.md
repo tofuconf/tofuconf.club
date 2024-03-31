@@ -14,7 +14,7 @@ author: "Kosuke Kamiya"
 
 ---
 
-2023年03月31日に開催された[tofuConf#17](/2024-01-12/17th-tofuconf-general.html)の会計報告です。
+2024年03月31日に開催された[tofuConf#17](/2024-01-12/17th-tofuconf-general.html)の会計報告です。
 
 残高は次回のtofuConfへの繰越金といたします。
 
