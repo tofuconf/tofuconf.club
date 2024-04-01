@@ -25,7 +25,7 @@ author: Kosuke Kamiya
 
 ### 開催ページ
 
-[tofuConf#17 参加者・発表者の受付を開始しました](/2024-01-12/17th-tofuconf-general.html)
+[tofuConf#17を開催します](/2024-01-12/17th-tofuconf-general.html)
 
 ### Twitterのハッシュタグ
 
