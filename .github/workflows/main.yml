@@ -59,7 +59,7 @@ jobs:
           ssh-keyscan -H tofuconf.club >> ~/.ssh/known_hosts
 
       - name: Start deployment
-        uses: bobheadxi/deployments@v1.4.0
+        uses: bobheadxi/deployments@v1.5.0
         id: deployment
         with:
           step: start
@@ -71,7 +71,7 @@ jobs:
           bash ./scripts/deploy.sh
 
       - name: Update deployment status
-        uses: bobheadxi/deployments@v1.4.0
+        uses: bobheadxi/deployments@v1.5.0
         if: always()
         with:
           step: finish
