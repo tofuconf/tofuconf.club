@@ -7,7 +7,7 @@ categories:
   - お知らせ
 tags:
   - tofuConf#18
-date: 22024-08-26T02:00:00+09:00
+date: 2024-08-26T02:00:00+09:00
 last_modified_at: 2024-08-26T02:00:00+09:00
 author: Kosuke Kamiya
 
