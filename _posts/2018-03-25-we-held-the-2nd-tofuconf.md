@@ -12,7 +12,7 @@ author: Daisuke Sato
 
 ---
 
-2018年3月25日、[レンタルスペースsugisho](https://www.sugisho.co.jp/){:target="_blank"}（東京都文京区）にてtofuConf#2を開催致しました。
+2018年3月25日、レンタルスペースsugisho（東京都文京区）にてtofuConf#2を開催致しました。
 
 
 広くて綺麗な会場で、快く貸してくださいました。ありがとうございました。
