@@ -29,7 +29,7 @@ tofuConfとは
 
 ### 場所
 
-[レンタルスペースsugisho](https://www.sugisho.co.jp/){:target="_blank"}（東京都文京区）
+レンタルスペースsugisho（東京都文京区）
 
 都営三田線水道橋駅A6出口から徒歩1分（
 [Google Maps](https://www.google.co.jp/maps/place/（株）杉浦商店/@35.704721,139.7528703,17z/){:target="_blank"}
