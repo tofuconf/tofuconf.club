@@ -14,16 +14,16 @@ jobs:
   build:
     runs-on: ubuntu-22.04
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           fetch-depth: "0"
           submodules: "true"
 
       - uses: ruby/setup-ruby@v1
         with:
-          ruby-version: "2.7"
+          ruby-version: "3.2.2"
 
-      - uses: actions/cache@v3
+      - uses: actions/cache@v4
         with:
           path: vendor/bundle
           key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
@@ -32,7 +32,7 @@ jobs:
 
       - name: Bundle install
         run: |
-          gem install bundler:2.4.6
+          gem install bundler:2.5.4
           bundle config path vendor/bundle
           bundle install --jobs 4 --retry 3
 
@@ -48,7 +48,7 @@ jobs:
           bundle exec htmlproofer --enforce_https false --ignore-status-codes "400,999" --ignore-urls "/#.*/,/tofuconf.club/.*/,/twitter.com/,/t.co/,/www.facebook.com/sharer/sharer.php.*/,/www.kyash.co/" ./_site
 
       - name: Prepare SSH 1
-        uses: webfactory/ssh-agent@v0.8.0
+        uses: webfactory/ssh-agent@v0.9.0
         with:
           ssh-private-key: ${{ secrets.SSH_PRIVATE_KEY }}
 
@@ -59,7 +59,7 @@ jobs:
           ssh-keyscan -H tofuconf.club >> ~/.ssh/known_hosts
 
       - name: Start deployment
-        uses: bobheadxi/deployments@v1.4.0
+        uses: bobheadxi/deployments@v1.5.0
         id: deployment
         with:
           step: start
@@ -71,7 +71,7 @@ jobs:
           bash ./scripts/deploy.sh
 
       - name: Update deployment status
-        uses: bobheadxi/deployments@v1.4.0
+        uses: bobheadxi/deployments@v1.5.0
         if: always()
         with:
           step: finish
