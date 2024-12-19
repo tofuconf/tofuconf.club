@@ -66,7 +66,7 @@ jobs:
 
       - name: Verify URL in HTML
         run: |
-          ruby ./scripts/proofer.rb
+          bundle exec ruby ./scripts/proofer.rb
 
       - name: Deploy to Netlify
         if: ${{ always() }}

@@ -1,3 +1,4 @@
+require 'bundler/setup'
 require "html-proofer"
 
 HTMLProofer.check_directory("./_site", {
