@@ -58,6 +58,12 @@ jobs:
           gh pr review ${{ github.event.number }} --approve
           gh pr edit ${{ github.event.number }} --remove-reviewer login
 
+      - name: Debug20241219
+        run: |
+          pwd
+          ls -la ./
+          ls -la /home/runner/work/tofuconf.club/tofuconf.club/_site
+
       - name: Verify URL in HTML
         run: |
           bundle exec htmlproofer --enforce_https false --ignore-status-codes "400,999" --ignore-urls "/#.*/,/tofuconf.club/.*/,/twitter.com/,/t.co/,/www.facebook.com/sharer/sharer.php.*/,/www.kyash.co/" ./_site

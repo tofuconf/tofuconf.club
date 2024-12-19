@@ -42,12 +42,6 @@ jobs:
         run: |
           bundle exec jekyll build --config _config.yml
 
-      - name: Debug20241219
-        run: |
-          pwd
-          ls -la ./
-          ls -la /home/runner/work/tofuconf.club/tofuconf.club/_site
-
       - name: Verify URL in HTML
         continue-on-error: true
         run: |
