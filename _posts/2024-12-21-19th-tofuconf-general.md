@@ -36,7 +36,7 @@ tofuConfとは
 
 ### 場所
 
-[Good Space西新宿401](https://www.instabase.jp/space/4776470602) 東京都新宿区西新宿7丁目14−5 富士ビル 401
+[Good Space西新宿401](https://www.instabase.jp/space/4776470602)<br>東京都新宿区西新宿7丁目14−5 富士ビル 401
 
 新宿駅 徒歩6分（[Google Maps](https://maps.app.goo.gl/XyGNzvQgbiziR2S38)）
 
