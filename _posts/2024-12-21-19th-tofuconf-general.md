@@ -17,8 +17,6 @@ author: Kosuke Kamiya
 
 2025年3月8日（土）にtofuConf#19を開催します。本ページがtofuConf#19の公式ページです。
 
-# ![](/images/tofuconf19th.png){:alt="tofuConf#19"}
-
 # __tofuConf参加登録ページは[こちら](https://tofuconf.connpass.com/event/325941/)です。__
 
 __tofuConf参加登録ページは追って公開します。__
