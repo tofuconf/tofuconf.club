@@ -45,7 +45,7 @@ jobs:
       - name: Verify URL in HTML
         continue-on-error: true
         run: |
-          bundle exec htmlproofer --enforce_https false --ignore-status-codes "400,999" --ignore-urls "/#.*/,/tofuconf.club/.*/,/twitter.com/,/t.co/,/www.facebook.com/sharer/sharer.php.*/,/www.kyash.co/" ./_site
+          bundle exec ruby ./scripts/proofer.rb
 
       - name: Prepare SSH 1
         uses: webfactory/ssh-agent@v0.9.0
