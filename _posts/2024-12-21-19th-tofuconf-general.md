@@ -2,7 +2,7 @@
 
 title: "tofuConf#19を開催します"
 header:
-  # og_image: "/images/tofuconf18th.png"
+  og_image: "/images/tofuconf19th.png"
   # teaser: "/images/favicons/icon-512x512.png"
 categories:
   - お知らせ
@@ -16,6 +16,8 @@ author: Kosuke Kamiya
 ---
 
 2025年3月8日（土）にtofuConf#19を開催します。本ページがtofuConf#19の公式ページです。
+
+![](/images/tofuconf19th.png){:alt="tofuConf#19"}
 
 __tofuConf参加登録ページは[こちら](https://tofuconf.connpass.com/event/341563/)です。__
 
