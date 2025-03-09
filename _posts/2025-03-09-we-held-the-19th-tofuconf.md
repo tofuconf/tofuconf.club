@@ -1,6 +1,6 @@
 ---
 
-title: "tofuConf#18を開催しました"
+title: "tofuConf#19を開催しました"
 header:
   teaser: "/images/favicons/icon-512x512.png"
 categories: 
@@ -39,8 +39,6 @@ author: Kosuke Kamiya
 ### LT発表者/タイトル
 
 ※敬称略
-
-※発表順・敬称略
 
 | 発表者名 | 発表予定タイトル |
 |:--------:|:----------------------:|
