@@ -15,7 +15,7 @@ author: "Kosuke Kamiya"
 
 2025年03月09日に開催された[tofuConf#19](/2024-12-22/19th-tofuconf-general.html)の会計報告です。
 
-今回は収入よりも支出の方が大きくなった為、不足分を運営メンバー2名が拠出した資金で補いました。残高は次回のtofuConfへの繰越金といたします。また、将来繰越金が大きくなった場合には該当の運営メンバー（tofuConf#18で拠出したメンバーを含む）に返す可能性があります。
+今回は収入よりも支出の方が大きくなった為、不足分を運営メンバー2名が拠出した資金で補いました。残高は次回のtofuConfへの繰越金といたします。
 
 詳細につきましては[Twitter@tofuConf](https://twitter.com/tofuconf)またはtofuconf[at]gmail.comまでお問い合わせください。
 
