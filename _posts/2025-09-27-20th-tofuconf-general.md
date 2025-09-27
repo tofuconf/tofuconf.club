@@ -15,7 +15,7 @@ author: Kosuke Kamiya
 
 ---
 
-2025年11月15日（土）にtofuConf#29を開催します。本ページがtofuConf#20の公式ページです。
+2025年11月15日（土）にtofuConf#20を開催します。本ページがtofuConf#20の公式ページです。
 
 ![](/images/logo.png){:alt="tofuConf#20"}
 
