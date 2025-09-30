@@ -62,11 +62,13 @@ LT（ライトニングトーク）形式で自由に発表していただけま
 
 [#tofuConf](https://twitter.com/hashtag/tofuConf)
 
-## 参加費
+### 参加費
 
 * 現役生：500円
 * 卒業生(学生)：1500円
 * 卒業生(社会人)：3000円
+
+![](/images/tofuconf20th.png){:alt="tofuConf#20"}
 
 ### キャンセルポリシー
 
