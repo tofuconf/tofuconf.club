@@ -2,7 +2,7 @@
 
 title: "tofuConf#20を開催します"
 header:
-  og_image: "/images/logo.png"
+  og_image: "/images/tofucont_20_bunner.png"
   # teaser: "/images/favicons/icon-512x512.png"
 categories:
   - お知らせ
@@ -17,7 +17,7 @@ author: Kosuke Kamiya
 
 2025年11月15日（土）にtofuConf#20を開催します。本ページがtofuConf#20の公式ページです。
 
-![](/images/logo.png){:alt="tofuConf#20"}
+![](/images/tofucont_20.png){:alt="tofuConf#20"}
 
 __tofuConf参加登録ページは追って公開します。__
 
