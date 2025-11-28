@@ -13,7 +13,7 @@ author: "Kosuke Kamiya"
 
 ---
 
-2025年03月09日に開催された[tofuConf#20](/2025-09-29/20th-tofuconf-general.html)の会計報告です。
+2025年11月15日に開催された[tofuConf#20](/2025-09-29/20th-tofuconf-general.html)の会計報告です。
 
 今回は、参加者の方から参加費とは別にtofuConfの運営資金（tofuConf基金）に対して1口500円×5口の拠出をいただきました。
 
@@ -21,7 +21,7 @@ author: "Kosuke Kamiya"
 
 詳細につきましては[Twitter@tofuConf](https://twitter.com/tofuconf)またはtofuconf[at]gmail.comまでお問い合わせください。
 
-2025年03月09日現在、会計、Website、Twitterはそれぞれ担当者が異なります。
+2025年11月29日現在、会計、Website、Twitterはそれぞれ担当者が異なります。
 お返事・Website反映までに時間を要する場合もがあります。
 あらかじめご了承ください。
 
