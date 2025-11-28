@@ -22,7 +22,7 @@ author: Kosuke Kamiya
 
 ### 開催ページ
 
-[tofuConf#20を開催します](/2025-09-27/20th-tofuconf-general.html)
+[tofuConf#20を開催します](/2025-09-29/20th-tofuconf-general.html)
 
 ### Twitterのハッシュタグ
 
