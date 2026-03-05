@@ -17,7 +17,7 @@ author: Kosuke Kamiya
 
 2026年4月11日（土）にtofuConf#21を開催します。本ページがtofuConf#21の公式ページです。
 
-![](/images/images/logo.png){:alt="tofuConf#21"}
+![](/images/logo.png){:alt="tofuConf#21"}
 
 __tofuConf参加登録ページは現在準備中です。__
 
