@@ -30,7 +30,7 @@ author: Daisuke Sato
 
 W+（東京都千代田区）
 
-2019年9月3日追記: 「W+」は<a href="https://www.spacee.jp/" target="_blank">spacee.jp</a>にて掲載されていたレンタルスペースでしたが、spaceeのサイト上から削除されたためリンクを削除しました。
+2019年9月3日追記: 「W+」はspacee.jpにて掲載されていたレンタルスペースでしたが、spaceeのサイト上から削除されたためリンクを削除しました。
 
 ### 議題
 
