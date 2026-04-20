@@ -59,7 +59,6 @@ author: "Kosuke Kamiya"
 
 | 帳簿上の残高 | 32162 |
 | 実際の現金残高 | 32662 |
-|---|---|
 | 現金過不足 | 500（過剰） |
 
 <style type="text/css">
