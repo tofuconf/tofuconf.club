@@ -11,6 +11,7 @@ HTMLProofer.check_directory("./_site", {
         /t\.co/,
         /www\.facebook\.com\/sharer\/sharer\.php.*/,
         /linkedin\.com/,
-        /www\.kyash\.co/
+        /www\.kyash\.co/,
+        /about\.mercari\.com\/event-code-of-conduct\//
     ]
 }).run
