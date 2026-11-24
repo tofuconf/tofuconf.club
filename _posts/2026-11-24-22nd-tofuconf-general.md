@@ -15,7 +15,7 @@ author: Kosuke Kamiya
 
 ---
 
-2027年2月7日（日）にtofuConf#21を開催します。本ページがtofuConf#22の公式ページです。
+2027年2月7日（日）にtofuConf#22を開催します。本ページがtofuConf#22の公式ページです。
 
 ![](/images/logo.png){:alt="tofuConf#22"}
 
