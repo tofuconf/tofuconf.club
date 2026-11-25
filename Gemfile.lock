@@ -111,7 +111,7 @@ GEM
       verbal_expressions (~> 0.1.5)
     jekyll-archives (2.3.0)
       jekyll (>= 3.6, < 5.0)
-    jekyll-feed (0.17.0)
+    jekyll-feed (0.18.0)
       jekyll (>= 3.7, < 5.0)
     jekyll-gist (1.5.0)
       octokit (~> 4.2)
